@@ -1,0 +1,30 @@
+Resource Allocation
+
+Are any departments or cities overburdened?
+
+Are some doctors handling more follow-ups or appointments than others?
+
+Patient Demographics
+
+What does the age distribution look like across departments?
+
+Which age groups are more likely to require follow-ups or specific treatment types?
+
+Service Quality
+
+How satisfied are patients across different departments, doctors, and cities?
+
+Are there trends in low ratings that require attention?
+
+Financial Insights
+
+Are consultation fees aligned with department workload and patient outcomes?
+
+Are high-fee consultations leading to higher satisfaction or better results?
+
+Strategic Opportunities
+
+Which departments or locations should the clinic invest more into?
+
+Can follow-up patterns reveal gaps in initial treatments?
+

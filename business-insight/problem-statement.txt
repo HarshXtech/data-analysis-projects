@@ -1,0 +1,30 @@
+Store Performance
+
+Are all store locations performing as expected?
+
+Are there signs of underperformance in any segment or city?
+
+Customer Behavior
+
+How do different customers interact with different product segments?
+
+What trends can be observed in high-value vs low-value purchases?
+
+Sales Trends
+
+Are there time-based patterns that can guide promotions or staffing?
+
+What role does discounting play in revenue generation?
+
+Operational Insights
+
+Are some payment modes more common in specific cities?
+
+How does customer satisfaction (via feedback score) vary across locations and segments?
+
+Strategic Decisions
+
+Where should the company focus its next marketing push?
+
+Which city or product segment should be scaled back or redesigned?
+

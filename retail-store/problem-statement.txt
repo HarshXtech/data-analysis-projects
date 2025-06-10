@@ -1,0 +1,40 @@
+Sales Overview
+
+What is the total revenue generated in each region?
+
+Which product category generates the highest revenue?
+
+Performance by Region
+
+Which region has the highest number of orders?
+
+Which region has the most returns?
+
+Product Insights
+
+Which are the top 5 products in terms of total sales?
+
+How does the discount percentage affect the sales volume of each product?
+
+Customer Behavior
+
+Which customers ordered the most (in quantity)?
+
+How many repeat customers do we have?
+
+Returns Analysis
+
+What percentage of orders were returned?
+
+Are returns concentrated in specific product categories or regions?
+
+Time-based Trends
+
+How have sales changed over time (monthly)?
+
+Are there any specific months where returns spike?
+
+Profitability (Bonus Task)
+
+Estimate profits assuming a fixed 30% cost on all items. Which regions and categories are most profitable?
+
