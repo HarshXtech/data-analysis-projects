@@ -1,0 +1,1001 @@
+,EmployeeID,Age,JobRole,MonthlyIncome,JobSatisfaction,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,Education,DistanceFromHome,MaritalStatus,NumCompaniesWorked,OverTime,Attrition
+0,1,50,Sales Executive,17422,3,3,4,12,College,34,Single,5,No,Yes
+1,2,36,Research Director,11700,4,1,16,3,Master,3,Divorced,6,No,No
+2,3,29,Laboratory Technician,7693,1,3,27,5,Doctor,8,Married,9,No,No
+3,4,42,Research Scientist,2767,2,1,24,7,College,31,Divorced,1,Yes,No
+4,5,40,Sales Executive,16818,1,4,28,12,Below College,11,Divorced,9,No,No
+5,6,44,Laboratory Technician,3549,1,4,15,2,Below College,45,Single,5,No,No
+6,7,32,Research Scientist,11956,2,1,22,0,Doctor,7,Single,5,Yes,No
+7,8,32,Research Scientist,8140,4,2,1,2,Doctor,45,Married,1,Yes,No
+8,9,45,Manager,12837,3,1,21,11,Master,2,Divorced,1,No,No
+9,10,57,Sales Executive,5716,4,1,17,2,Bachelor,6,Divorced,1,No,No
+10,11,45,Research Scientist,6481,4,2,16,4,Below College,41,Divorced,9,No,No
+11,12,24,Manager,8548,1,4,29,10,Doctor,32,Married,0,Yes,Yes
+12,13,43,Laboratory Technician,6837,3,3,6,11,Below College,20,Single,4,Yes,No
+13,14,23,Manufacturing Director,9758,3,1,12,11,Doctor,34,Married,7,No,No
+14,15,45,Sales Executive,12900,4,2,17,3,College,16,Divorced,1,No,No
+15,16,51,Research Director,9993,2,1,28,12,Below College,25,Single,4,Yes,Yes
+16,17,59,Sales Representative,7542,4,2,13,3,College,12,Single,7,No,No
+17,18,23,Sales Representative,16828,2,3,29,8,Below College,7,Married,9,No,No
+18,19,42,Laboratory Technician,18052,3,3,17,6,Bachelor,39,Single,4,Yes,Yes
+19,20,54,Laboratory Technician,4385,4,4,12,3,Master,17,Single,1,Yes,No
+20,21,33,Research Scientist,16308,1,2,10,2,College,45,Divorced,2,Yes,Yes
+21,22,43,Sales Executive,2671,4,2,20,5,Doctor,11,Divorced,5,No,No
+22,23,46,Sales Representative,2163,3,4,29,2,Bachelor,6,Single,4,No,No
+23,24,48,Sales Representative,10656,1,4,20,5,Below College,23,Single,3,No,No
+24,25,49,Research Scientist,13234,1,2,15,10,College,27,Married,3,No,No
+25,26,37,Sales Representative,6795,2,4,22,12,Below College,46,Married,4,No,No
+26,27,36,Research Director,12634,1,3,16,10,Below College,6,Single,1,No,Yes
+27,28,24,Sales Executive,6798,1,1,7,12,Below College,38,Divorced,8,No,No
+28,29,58,Human Resources,12749,4,3,18,12,Master,2,Single,1,Yes,No
+29,30,28,Sales Representative,7827,3,4,19,11,Master,22,Single,9,No,No
+30,31,42,Laboratory Technician,6719,2,2,14,8,Doctor,20,Divorced,1,No,Yes
+31,32,30,Research Director,2593,4,2,8,5,College,25,Divorced,9,No,No
+32,33,39,Sales Representative,9394,1,3,19,11,Bachelor,15,Married,8,No,No
+33,34,25,Research Director,16056,1,2,9,3,Bachelor,49,Married,2,Yes,Yes
+34,35,46,Manager,12636,2,4,11,14,Bachelor,29,Married,9,No,No
+35,36,35,Human Resources,2016,3,3,20,4,Below College,8,Married,6,No,Yes
+36,37,30,Healthcare Representative,5191,2,2,22,12,Master,37,Divorced,3,No,No
+37,38,47,Laboratory Technician,2392,4,1,19,5,College,49,Single,5,No,No
+38,39,23,Laboratory Technician,8272,2,1,29,10,Below College,33,Married,3,No,No
+39,40,41,Sales Executive,18955,1,4,0,2,Master,22,Married,9,No,Yes
+40,41,49,Research Director,5631,4,2,24,7,Master,47,Divorced,6,No,No
+41,42,28,Research Scientist,8172,1,4,19,3,College,5,Divorced,0,No,No
+42,43,29,Laboratory Technician,11312,3,3,8,7,College,39,Single,2,No,Yes
+43,44,56,Research Director,10906,1,1,21,9,College,18,Single,2,No,No
+44,45,35,Research Director,19159,1,3,14,9,Below College,38,Divorced,0,No,Yes
+45,46,38,Manufacturing Director,18462,2,2,0,2,Doctor,37,Married,5,No,No
+46,47,57,Manufacturing Director,10080,1,4,11,9,College,30,Married,8,Yes,Yes
+47,48,25,Healthcare Representative,9099,4,4,2,6,Doctor,31,Married,7,Yes,Yes
+48,49,23,Manager,16916,4,4,10,10,Below College,10,Single,6,No,Yes
+49,50,27,Healthcare Representative,9083,3,3,1,12,Doctor,15,Married,9,No,No
+50,51,25,Sales Representative,11223,4,1,15,11,Bachelor,42,Married,7,No,Yes
+51,52,50,Research Scientist,6940,2,3,8,8,Doctor,48,Divorced,5,No,No
+52,53,39,Sales Representative,5456,3,3,14,3,College,44,Married,8,Yes,No
+53,54,47,Sales Representative,9788,4,2,11,7,Below College,18,Divorced,2,No,No
+54,55,55,Sales Executive,4711,2,2,0,2,College,23,Married,9,No,No
+55,56,31,Sales Representative,13280,4,2,12,6,Bachelor,33,Single,9,No,Yes
+56,57,57,Healthcare Representative,18531,4,1,13,2,College,16,Married,8,No,No
+57,58,35,Laboratory Technician,14089,1,1,24,11,College,38,Married,3,No,Yes
+58,59,52,Laboratory Technician,12142,4,2,24,14,College,35,Divorced,6,Yes,No
+59,60,36,Manufacturing Director,18749,4,2,7,14,Master,34,Divorced,8,No,No
+60,61,29,Research Scientist,17587,2,1,7,6,Bachelor,28,Divorced,1,Yes,No
+61,62,35,Research Scientist,11866,2,4,26,13,College,2,Married,1,No,Yes
+62,63,44,Sales Executive,6531,1,1,29,10,College,30,Married,8,No,No
+63,64,42,Healthcare Representative,14686,4,1,11,9,College,13,Single,2,No,No
+64,65,37,Manufacturing Director,7330,1,1,0,9,Below College,41,Married,8,No,No
+65,66,39,Research Scientist,7510,4,2,10,10,Master,16,Single,4,No,No
+66,67,45,Laboratory Technician,10964,3,4,7,10,Below College,5,Divorced,5,No,No
+67,68,47,Sales Representative,8493,3,1,9,5,Master,28,Divorced,1,Yes,No
+68,69,46,Sales Representative,12759,1,2,29,1,College,39,Divorced,7,No,No
+69,70,50,Manufacturing Director,7439,1,3,18,10,Bachelor,45,Single,8,No,No
+70,71,36,Healthcare Representative,16473,1,3,10,2,Doctor,20,Married,1,No,No
+71,72,22,Healthcare Representative,11765,2,1,6,5,Doctor,24,Divorced,5,No,No
+72,73,46,Manager,15279,2,3,10,13,College,27,Married,5,Yes,No
+73,74,28,Human Resources,8511,2,4,16,3,Below College,30,Married,7,Yes,No
+74,75,30,Research Scientist,13483,1,3,0,5,Bachelor,45,Divorced,9,No,No
+75,76,45,Healthcare Representative,19630,4,3,25,0,Master,27,Single,4,No,No
+76,77,22,Laboratory Technician,4376,3,4,28,9,College,26,Married,8,No,Yes
+77,78,29,Manufacturing Director,13824,1,1,20,11,Bachelor,7,Divorced,0,No,No
+78,79,45,Manager,8979,2,1,20,0,Bachelor,42,Married,8,Yes,No
+79,80,32,Research Director,11832,2,4,7,2,Master,47,Married,9,No,No
+80,81,38,Sales Executive,14504,1,4,22,7,Bachelor,38,Married,6,Yes,Yes
+81,82,29,Research Director,8910,1,4,23,7,Below College,5,Married,3,No,No
+82,83,56,Sales Representative,16089,2,3,5,10,Below College,23,Married,2,Yes,No
+83,84,56,Sales Executive,4196,4,4,21,3,Below College,28,Single,9,No,No
+84,85,54,Research Scientist,7978,2,2,17,5,Bachelor,34,Single,5,Yes,No
+85,86,26,Laboratory Technician,19153,2,3,5,14,Below College,15,Divorced,0,No,No
+86,87,49,Sales Executive,2780,1,1,4,7,Master,32,Single,2,No,No
+87,88,28,Human Resources,11908,4,1,12,6,Bachelor,26,Single,1,No,No
+88,89,30,Research Director,8303,2,1,18,10,Doctor,48,Single,8,No,No
+89,90,29,Research Scientist,16686,2,3,21,6,Bachelor,31,Married,2,No,No
+90,91,33,Human Resources,5983,3,2,7,12,Master,19,Married,1,Yes,No
+91,92,55,Sales Representative,11503,1,4,8,3,Doctor,9,Divorced,3,No,No
+92,93,54,Human Resources,18905,3,4,16,8,Bachelor,29,Divorced,1,No,No
+93,94,44,Manager,15070,3,1,2,11,Below College,39,Divorced,0,Yes,No
+94,95,45,Manager,14232,2,1,18,9,College,4,Married,5,Yes,No
+95,96,58,Manufacturing Director,6583,1,3,10,5,College,3,Single,9,No,No
+96,97,56,Research Scientist,7946,4,2,23,13,Below College,29,Single,7,No,No
+97,98,43,Sales Representative,18377,2,4,16,11,College,11,Married,9,No,No
+98,99,48,Healthcare Representative,9128,4,3,20,10,College,33,Divorced,9,No,Yes
+99,100,56,Manager,13889,4,4,18,2,Below College,38,Divorced,1,Yes,No
+100,101,22,Research Scientist,14275,1,1,1,4,Below College,11,Divorced,8,Yes,Yes
+101,102,56,Healthcare Representative,4461,3,4,7,4,Bachelor,27,Married,2,No,No
+102,103,58,Manufacturing Director,16291,1,2,18,13,Bachelor,33,Divorced,7,Yes,Yes
+103,104,35,Human Resources,16036,4,2,6,4,Below College,21,Divorced,7,No,No
+104,105,24,Manager,13435,2,1,27,7,Master,39,Married,2,No,No
+105,106,22,Research Scientist,2685,4,2,26,8,College,31,Single,2,Yes,Yes
+106,107,26,Sales Executive,14258,2,2,16,12,Bachelor,38,Married,5,No,Yes
+107,108,47,Healthcare Representative,17990,2,3,5,8,College,46,Married,0,Yes,No
+108,109,35,Human Resources,18422,1,4,18,12,Doctor,2,Married,3,No,No
+109,110,48,Manager,12736,4,1,23,5,Below College,27,Married,0,Yes,No
+110,111,30,Sales Representative,6875,3,1,5,5,Master,36,Single,2,No,No
+111,112,36,Healthcare Representative,19640,4,1,27,8,Doctor,11,Divorced,8,No,Yes
+112,113,36,Manager,13182,4,1,1,3,Doctor,47,Married,4,No,No
+113,114,47,Healthcare Representative,4196,3,1,5,5,Doctor,18,Single,4,No,No
+114,115,34,Human Resources,9165,1,2,22,3,Below College,1,Divorced,3,Yes,Yes
+115,116,53,Manager,17997,4,3,4,10,Bachelor,35,Divorced,2,No,Yes
+116,117,53,Research Director,16215,4,1,18,0,Below College,35,Divorced,4,No,Yes
+117,118,25,Research Scientist,2301,2,3,19,6,Bachelor,31,Married,3,No,Yes
+118,119,51,Human Resources,19030,4,3,3,13,Doctor,28,Married,7,Yes,No
+119,120,58,Healthcare Representative,16571,3,2,21,9,Doctor,39,Divorced,3,No,Yes
+120,121,44,Sales Representative,11951,2,1,25,10,Master,1,Divorced,7,Yes,No
+121,122,36,Sales Executive,12773,1,2,16,11,Bachelor,25,Divorced,5,No,Yes
+122,123,50,Healthcare Representative,18140,2,1,10,5,Doctor,43,Divorced,4,Yes,No
+123,124,57,Research Scientist,15057,3,2,3,8,College,38,Divorced,3,No,No
+124,125,34,Manager,14500,3,3,25,6,Master,20,Divorced,3,Yes,No
+125,126,53,Sales Executive,17921,2,1,12,12,Below College,3,Single,3,No,No
+126,127,28,Laboratory Technician,13870,1,4,19,6,Master,2,Divorced,8,No,No
+127,128,43,Healthcare Representative,6082,2,3,25,1,College,18,Married,3,Yes,No
+128,129,49,Manufacturing Director,15718,1,4,16,11,Bachelor,44,Married,8,No,Yes
+129,130,23,Laboratory Technician,12517,2,3,8,10,Below College,10,Married,9,Yes,No
+130,131,27,Healthcare Representative,5754,3,2,3,14,Below College,5,Divorced,5,No,No
+131,132,49,Research Director,3724,4,1,22,8,Bachelor,9,Married,9,No,No
+132,133,49,Manufacturing Director,3376,4,3,27,9,Master,2,Single,6,No,Yes
+133,134,41,Sales Executive,10706,1,2,13,8,Doctor,34,Divorced,9,No,No
+134,135,51,Sales Representative,10894,1,1,18,5,Master,38,Married,2,Yes,Yes
+135,136,32,Research Director,18406,1,1,25,12,College,31,Single,7,No,Yes
+136,137,49,Laboratory Technician,7926,3,3,27,2,Doctor,10,Single,2,Yes,No
+137,138,46,Manager,8251,2,1,2,0,Master,12,Married,0,No,Yes
+138,139,54,Research Scientist,11496,3,3,13,3,Bachelor,36,Single,9,No,No
+139,140,22,Sales Representative,5300,4,1,7,13,College,21,Married,4,No,No
+140,141,48,Research Director,10553,1,4,23,13,College,49,Single,1,Yes,Yes
+141,142,34,Manager,5727,2,2,26,2,College,47,Divorced,9,No,No
+142,143,24,Manager,18898,4,4,27,13,Doctor,6,Divorced,5,No,No
+143,144,27,Healthcare Representative,18832,4,3,0,11,Below College,48,Divorced,9,Yes,Yes
+144,145,29,Research Director,8019,4,4,9,0,Doctor,49,Divorced,8,No,No
+145,146,48,Sales Executive,17463,3,3,17,2,Master,3,Divorced,0,No,No
+146,147,30,Manufacturing Director,12047,1,1,15,13,Below College,10,Married,3,No,No
+147,148,58,Manufacturing Director,13754,4,1,7,13,Master,5,Divorced,0,No,No
+148,149,54,Laboratory Technician,4520,1,3,0,3,Below College,46,Divorced,0,No,Yes
+149,150,45,Laboratory Technician,5081,3,4,11,12,Doctor,26,Divorced,7,Yes,No
+150,151,36,Manufacturing Director,3428,4,1,7,12,College,21,Divorced,1,No,No
+151,152,53,Sales Executive,5967,3,2,23,14,Bachelor,45,Single,0,Yes,No
+152,153,53,Research Scientist,8445,3,1,15,13,College,26,Divorced,7,No,No
+153,154,45,Human Resources,16566,1,2,17,7,Doctor,38,Divorced,3,No,No
+154,155,33,Research Scientist,16042,4,4,3,8,Below College,44,Married,2,No,No
+155,156,23,Healthcare Representative,13329,3,2,5,2,College,26,Single,3,No,No
+156,157,24,Human Resources,4159,4,2,11,5,Doctor,8,Married,4,Yes,Yes
+157,158,58,Human Resources,7132,1,2,26,9,Master,5,Divorced,0,No,No
+158,159,38,Research Director,16933,3,2,8,10,Bachelor,15,Married,0,No,No
+159,160,23,Sales Executive,12473,1,1,14,14,College,16,Married,2,Yes,Yes
+160,161,23,Sales Executive,12805,4,2,15,4,Below College,1,Divorced,5,No,Yes
+161,162,49,Human Resources,5083,4,1,23,5,Master,16,Single,0,No,No
+162,163,44,Research Director,19421,1,2,11,3,Doctor,37,Single,1,No,No
+163,164,58,Human Resources,15944,2,3,23,9,Bachelor,3,Married,6,Yes,No
+164,165,53,Sales Representative,9604,3,4,22,5,Below College,47,Divorced,0,No,Yes
+165,166,54,Laboratory Technician,17379,4,2,13,6,Doctor,31,Married,6,Yes,No
+166,167,22,Laboratory Technician,5983,4,3,12,8,Doctor,13,Married,3,Yes,Yes
+167,168,40,Research Scientist,3778,3,2,24,9,College,16,Married,9,Yes,No
+168,169,23,Healthcare Representative,7110,1,2,1,6,College,43,Divorced,5,Yes,Yes
+169,170,47,Laboratory Technician,14087,1,2,2,5,Below College,21,Divorced,7,Yes,Yes
+170,171,53,Manager,19508,1,3,25,0,Doctor,2,Single,8,No,No
+171,172,27,Research Scientist,19081,2,4,23,1,College,27,Divorced,5,No,No
+172,173,53,Laboratory Technician,4179,2,3,29,0,Bachelor,38,Married,8,Yes,No
+173,174,25,Healthcare Representative,11596,4,4,21,8,Bachelor,26,Married,3,Yes,No
+174,175,32,Sales Executive,7251,1,2,9,9,Doctor,38,Single,5,No,No
+175,176,38,Sales Executive,11235,3,1,8,9,College,46,Divorced,7,No,No
+176,177,59,Human Resources,16871,4,2,25,8,Below College,25,Married,8,Yes,Yes
+177,178,45,Sales Representative,3013,3,4,19,6,Below College,11,Single,2,Yes,Yes
+178,179,26,Sales Executive,18610,4,3,7,12,Below College,8,Single,1,Yes,No
+179,180,55,Research Director,3828,2,2,9,1,Bachelor,8,Married,5,Yes,No
+180,181,27,Laboratory Technician,9909,4,3,18,5,College,33,Married,3,Yes,No
+181,182,43,Research Director,7588,2,3,2,10,College,7,Divorced,0,No,No
+182,183,32,Healthcare Representative,15109,4,3,23,3,Bachelor,38,Single,7,Yes,No
+183,184,37,Sales Executive,4023,1,2,4,0,Below College,21,Married,8,No,No
+184,185,54,Sales Representative,16537,3,3,2,0,Below College,8,Single,8,Yes,No
+185,186,30,Healthcare Representative,7891,1,3,25,11,Doctor,21,Divorced,1,No,No
+186,187,27,Manager,3080,4,2,26,4,Master,20,Married,8,No,No
+187,188,37,Manager,7036,4,3,15,11,College,8,Divorced,6,No,No
+188,189,50,Research Director,17379,4,2,16,1,College,46,Single,4,No,Yes
+189,190,24,Human Resources,12822,2,4,14,3,College,31,Divorced,6,No,No
+190,191,41,Research Scientist,4563,3,4,2,0,Master,29,Divorced,8,No,Yes
+191,192,57,Human Resources,5292,3,4,11,3,Doctor,48,Single,7,No,Yes
+192,193,40,Human Resources,5586,4,3,8,10,Master,9,Divorced,5,No,No
+193,194,47,Sales Representative,18087,4,1,20,5,Below College,15,Single,3,No,No
+194,195,24,Sales Executive,18100,2,1,11,9,Below College,30,Married,0,No,No
+195,196,40,Sales Representative,8643,1,3,25,3,College,26,Single,5,No,No
+196,197,41,Healthcare Representative,5959,1,1,14,0,Bachelor,10,Single,2,No,No
+197,198,53,Manager,13005,3,2,1,6,College,29,Married,5,Yes,No
+198,199,28,Sales Representative,12775,2,1,22,13,Bachelor,16,Single,5,Yes,No
+199,200,54,Healthcare Representative,2161,4,3,17,1,Master,36,Married,3,No,No
+200,201,39,Sales Representative,18029,3,3,19,8,Below College,20,Married,1,Yes,No
+201,202,22,Human Resources,18977,2,2,11,12,Bachelor,45,Single,8,No,No
+202,203,32,Laboratory Technician,16226,1,4,22,2,Master,37,Divorced,1,Yes,Yes
+203,204,49,Research Director,13154,2,3,3,7,Below College,22,Divorced,2,No,Yes
+204,205,46,Research Scientist,14080,1,2,22,12,Bachelor,7,Married,9,No,No
+205,206,44,Sales Representative,5390,2,1,15,7,College,23,Divorced,0,No,No
+206,207,52,Research Scientist,7997,3,1,22,2,College,41,Divorced,6,No,No
+207,208,51,Manufacturing Director,14693,1,2,15,3,College,40,Single,0,No,Yes
+208,209,56,Sales Representative,19047,3,2,0,1,Master,29,Married,8,No,No
+209,210,28,Laboratory Technician,11324,3,3,21,3,College,16,Married,0,No,No
+210,211,37,Research Scientist,2541,1,1,24,10,Doctor,38,Single,4,Yes,Yes
+211,212,47,Sales Representative,7093,1,2,1,10,Below College,28,Divorced,6,No,No
+212,213,23,Sales Executive,15428,4,1,29,10,Master,48,Married,2,No,Yes
+213,214,22,Research Director,13166,4,2,2,13,College,38,Divorced,8,No,No
+214,215,33,Laboratory Technician,19251,4,1,25,8,Below College,31,Married,7,No,No
+215,216,26,Research Scientist,18063,3,4,20,1,Bachelor,14,Married,2,No,No
+216,217,58,Laboratory Technician,12258,3,3,24,11,College,33,Married,4,Yes,No
+217,218,53,Healthcare Representative,18044,4,1,19,11,Below College,9,Married,6,Yes,Yes
+218,219,30,Research Director,7469,3,4,16,12,Doctor,27,Divorced,3,No,No
+219,220,56,Sales Representative,8256,3,1,19,2,Bachelor,24,Divorced,4,No,No
+220,221,40,Sales Representative,12720,1,1,21,14,Doctor,13,Divorced,2,No,Yes
+221,222,37,Sales Representative,3169,1,4,20,10,Below College,26,Divorced,8,Yes,Yes
+222,223,24,Research Director,2830,3,1,29,10,Doctor,29,Single,9,No,No
+223,224,41,Sales Executive,3651,4,1,28,14,Below College,49,Married,8,No,Yes
+224,225,45,Manufacturing Director,19520,2,3,0,3,Below College,43,Married,6,No,No
+225,226,54,Manager,11518,4,4,19,4,Doctor,28,Married,9,Yes,Yes
+226,227,45,Human Resources,15258,2,4,5,0,Below College,28,Single,1,Yes,No
+227,228,32,Research Scientist,18184,4,2,28,6,College,8,Divorced,6,Yes,No
+228,229,29,Sales Executive,3019,1,1,14,13,Below College,23,Married,6,Yes,Yes
+229,230,57,Research Scientist,12028,3,3,25,9,Master,29,Divorced,4,Yes,No
+230,231,59,Sales Representative,14448,3,1,25,6,Below College,5,Divorced,8,Yes,No
+231,232,41,Laboratory Technician,14485,1,1,13,8,Master,42,Single,2,No,No
+232,233,56,Research Scientist,3283,2,2,19,3,Below College,7,Single,3,No,Yes
+233,234,46,Sales Representative,19043,2,1,14,13,Below College,42,Divorced,0,No,No
+234,235,56,Research Scientist,3733,2,3,13,13,Doctor,36,Married,5,Yes,No
+235,236,46,Laboratory Technician,18230,1,3,24,5,College,41,Married,3,No,No
+236,237,50,Sales Representative,16472,2,2,20,10,College,27,Single,0,No,No
+237,238,39,Manufacturing Director,14889,1,1,23,1,Bachelor,46,Single,1,Yes,Yes
+238,239,39,Sales Executive,5471,4,3,24,11,Doctor,2,Single,2,No,No
+239,240,23,Healthcare Representative,11028,4,1,25,11,Doctor,25,Single,8,Yes,Yes
+240,241,56,Human Resources,10329,1,1,4,13,College,9,Single,7,No,No
+241,242,37,Research Director,4097,3,1,5,3,Doctor,27,Single,6,No,Yes
+242,243,57,Human Resources,16082,4,2,16,1,College,1,Single,3,No,No
+243,244,54,Human Resources,15930,2,1,10,9,Doctor,23,Married,0,No,Yes
+244,245,25,Sales Representative,12077,1,3,15,4,Below College,10,Single,7,No,Yes
+245,246,54,Manufacturing Director,8397,2,1,11,14,College,42,Single,3,No,No
+246,247,35,Healthcare Representative,4757,2,3,14,6,College,25,Married,2,No,No
+247,248,42,Sales Executive,19833,3,1,22,12,Master,3,Married,8,Yes,No
+248,249,41,Sales Executive,7017,2,3,3,0,Doctor,6,Divorced,9,Yes,No
+249,250,29,Laboratory Technician,18370,3,3,26,14,Doctor,6,Single,3,No,No
+250,251,28,Research Director,9999,4,1,17,9,College,2,Single,3,No,Yes
+251,252,24,Research Scientist,12195,1,1,20,9,Below College,18,Single,8,No,No
+252,253,38,Manufacturing Director,4096,2,3,27,6,Below College,23,Single,1,Yes,No
+253,254,54,Research Scientist,17433,1,4,2,9,Below College,2,Divorced,4,No,No
+254,255,33,Healthcare Representative,12595,2,2,21,12,Doctor,12,Married,3,Yes,No
+255,256,43,Human Resources,17941,1,4,7,5,Master,22,Married,8,No,No
+256,257,43,Sales Executive,17078,2,4,22,5,College,37,Single,4,No,No
+257,258,51,Healthcare Representative,7105,2,1,2,11,Bachelor,20,Single,8,No,Yes
+258,259,59,Human Resources,4839,2,2,7,7,Master,39,Single,8,Yes,No
+259,260,59,Sales Executive,5384,2,4,17,7,Bachelor,24,Divorced,1,No,No
+260,261,29,Human Resources,12851,2,1,9,5,Master,48,Divorced,8,No,No
+261,262,48,Research Director,12053,2,4,24,2,Below College,20,Married,2,No,No
+262,263,48,Manufacturing Director,15493,2,4,19,4,Doctor,1,Single,3,No,Yes
+263,264,55,Healthcare Representative,19069,2,1,16,1,Bachelor,1,Single,0,No,Yes
+264,265,42,Healthcare Representative,16139,2,1,7,14,Master,17,Single,0,No,No
+265,266,51,Manager,9531,1,1,22,13,Doctor,1,Single,0,No,No
+266,267,54,Sales Representative,6283,3,2,10,4,Bachelor,45,Divorced,8,Yes,Yes
+267,268,49,Research Director,9736,2,4,28,13,College,30,Married,7,No,No
+268,269,54,Research Director,9710,3,1,4,8,Master,41,Married,4,No,No
+269,270,26,Research Scientist,3619,2,3,25,9,College,47,Divorced,4,Yes,No
+270,271,40,Human Resources,15975,2,4,12,0,Below College,3,Single,8,Yes,No
+271,272,25,Sales Representative,14835,1,3,20,9,College,46,Married,2,No,No
+272,273,56,Manufacturing Director,17261,4,2,22,4,College,11,Married,2,Yes,No
+273,274,38,Manufacturing Director,3431,4,1,4,11,Master,24,Divorced,6,No,No
+274,275,49,Research Director,11067,1,3,23,5,Below College,22,Single,8,Yes,Yes
+275,276,51,Manufacturing Director,6713,3,2,26,13,College,44,Married,5,No,No
+276,277,50,Manager,11557,4,1,12,10,Doctor,45,Single,1,No,No
+277,278,27,Healthcare Representative,11435,1,3,5,6,Bachelor,26,Married,0,No,No
+278,279,56,Laboratory Technician,6998,1,3,28,8,College,13,Divorced,1,No,No
+279,280,58,Research Scientist,2162,4,2,4,5,Below College,1,Single,0,No,No
+280,281,45,Human Resources,3974,3,1,8,4,College,24,Divorced,9,No,No
+281,282,50,Human Resources,10461,1,1,26,11,Bachelor,10,Married,9,Yes,Yes
+282,283,52,Sales Executive,19015,2,3,15,6,Below College,35,Divorced,8,Yes,Yes
+283,284,56,Laboratory Technician,19289,3,3,1,12,Master,24,Divorced,9,Yes,No
+284,285,54,Research Director,4014,3,3,0,0,Below College,28,Divorced,7,No,No
+285,286,42,Manager,11833,4,1,7,10,Master,36,Married,6,Yes,No
+286,287,53,Healthcare Representative,9896,4,2,27,13,Below College,16,Single,2,Yes,No
+287,288,44,Healthcare Representative,2204,2,2,18,4,Bachelor,40,Divorced,7,No,No
+288,289,54,Manager,18965,1,1,29,14,Bachelor,16,Single,1,No,No
+289,290,24,Sales Representative,11032,4,4,10,1,Below College,17,Married,1,No,Yes
+290,291,39,Sales Executive,7347,4,2,27,3,College,15,Single,9,Yes,No
+291,292,46,Human Resources,4643,3,3,11,6,Bachelor,16,Divorced,2,Yes,No
+292,293,52,Laboratory Technician,10017,4,4,11,4,Master,15,Divorced,6,No,Yes
+293,294,24,Manufacturing Director,19258,4,4,6,11,Master,34,Divorced,0,Yes,No
+294,295,45,Sales Executive,7560,4,2,25,5,Doctor,11,Divorced,7,No,No
+295,296,53,Laboratory Technician,17892,4,4,12,1,Master,1,Divorced,6,No,Yes
+296,297,43,Research Scientist,16531,3,4,26,2,Doctor,15,Divorced,3,No,Yes
+297,298,44,Research Scientist,19073,2,2,7,6,Below College,26,Married,4,Yes,No
+298,299,23,Sales Executive,6000,2,2,28,10,Below College,4,Married,9,No,No
+299,300,48,Research Director,16289,1,4,28,1,Below College,43,Married,0,No,No
+300,301,23,Laboratory Technician,19055,4,3,21,11,College,5,Single,3,No,Yes
+301,302,47,Laboratory Technician,9927,3,1,27,5,College,35,Single,0,No,No
+302,303,38,Manager,17562,1,4,25,4,Doctor,13,Married,0,Yes,Yes
+303,304,54,Research Director,3171,1,4,29,9,Master,10,Single,9,Yes,Yes
+304,305,30,Human Resources,13918,2,3,8,0,Master,11,Single,0,No,Yes
+305,306,50,Human Resources,11135,3,4,6,11,Below College,18,Divorced,6,No,No
+306,307,47,Manufacturing Director,8342,3,4,25,10,Bachelor,34,Divorced,6,No,No
+307,308,56,Healthcare Representative,19833,3,1,20,14,College,39,Single,3,No,No
+308,309,46,Research Scientist,13929,2,1,23,9,College,41,Single,1,No,No
+309,310,45,Human Resources,4539,2,1,14,10,Below College,42,Married,2,No,No
+310,311,34,Research Director,5959,2,2,1,3,College,23,Single,7,No,No
+311,312,28,Laboratory Technician,15183,2,2,22,10,Below College,7,Divorced,7,Yes,No
+312,313,57,Human Resources,7432,2,1,19,1,Doctor,39,Single,5,No,No
+313,314,41,Laboratory Technician,3753,4,1,24,3,Master,3,Married,9,Yes,No
+314,315,22,Human Resources,12123,4,2,11,0,Bachelor,12,Divorced,8,No,No
+315,316,29,Research Scientist,18376,3,3,0,1,Master,7,Divorced,8,No,No
+316,317,37,Human Resources,8588,1,4,22,12,Master,49,Divorced,3,No,No
+317,318,35,Research Director,8304,3,4,21,7,Doctor,26,Divorced,0,Yes,No
+318,319,33,Human Resources,9345,1,1,7,5,College,33,Single,0,No,No
+319,320,44,Healthcare Representative,17352,2,3,4,1,Bachelor,37,Married,9,Yes,No
+320,321,36,Research Scientist,2597,1,2,14,11,College,48,Single,4,No,Yes
+321,322,49,Research Director,4336,3,1,0,14,Master,15,Single,1,Yes,No
+322,323,55,Manager,11879,3,3,0,5,Below College,2,Divorced,5,No,No
+323,324,23,Research Director,2572,1,3,24,9,Master,41,Married,6,No,No
+324,325,53,Healthcare Representative,9521,4,3,9,8,College,7,Divorced,0,No,No
+325,326,44,Research Scientist,8171,2,2,21,6,Master,32,Single,5,No,No
+326,327,43,Manager,15992,2,2,9,8,Below College,4,Single,7,Yes,No
+327,328,46,Healthcare Representative,13861,3,4,20,4,Doctor,20,Divorced,4,Yes,No
+328,329,43,Healthcare Representative,14464,4,4,14,6,College,36,Single,6,No,No
+329,330,43,Sales Executive,3633,1,3,16,10,Master,32,Single,9,No,No
+330,331,27,Research Scientist,19901,2,3,21,14,College,28,Divorced,5,Yes,No
+331,332,36,Research Director,14485,4,2,5,13,Doctor,13,Single,3,No,Yes
+332,333,58,Laboratory Technician,12849,2,4,2,6,Master,1,Married,6,No,No
+333,334,54,Laboratory Technician,5648,4,3,12,11,Master,35,Divorced,9,Yes,No
+334,335,29,Research Director,17177,4,4,15,11,College,48,Married,8,Yes,No
+335,336,26,Research Director,15140,3,4,7,2,College,30,Single,9,Yes,No
+336,337,25,Research Scientist,19921,2,3,29,6,Below College,36,Single,9,No,No
+337,338,27,Research Director,16357,1,2,14,0,Doctor,25,Divorced,6,No,Yes
+338,339,53,Sales Executive,15368,3,3,16,8,Below College,16,Single,4,No,Yes
+339,340,51,Manager,5137,3,3,16,9,Master,19,Divorced,6,No,No
+340,341,56,Research Director,2097,1,4,21,12,College,1,Divorced,2,Yes,Yes
+341,342,37,Laboratory Technician,13407,3,3,25,5,Master,5,Divorced,1,No,Yes
+342,343,34,Research Director,14722,4,2,12,4,Master,22,Divorced,4,No,No
+343,344,51,Sales Executive,14924,4,3,16,6,Bachelor,24,Divorced,3,Yes,No
+344,345,40,Human Resources,5750,2,2,5,4,Bachelor,43,Married,4,No,No
+345,346,38,Human Resources,10535,2,2,16,9,Master,45,Divorced,7,No,No
+346,347,40,Healthcare Representative,6666,1,4,15,4,College,37,Married,3,No,No
+347,348,49,Manufacturing Director,18009,2,1,13,10,Master,36,Single,8,No,No
+348,349,47,Manager,18994,4,1,12,9,Bachelor,36,Divorced,6,Yes,No
+349,350,58,Sales Representative,3727,1,4,5,10,College,4,Single,9,Yes,Yes
+350,351,47,Healthcare Representative,3854,1,3,2,6,Master,36,Divorced,6,No,No
+351,352,44,Human Resources,12800,2,4,13,9,Doctor,18,Married,7,Yes,No
+352,353,30,Laboratory Technician,7055,4,2,13,14,Doctor,16,Married,5,No,Yes
+353,354,33,Sales Representative,12271,1,1,14,6,Master,41,Married,7,No,No
+354,355,22,Healthcare Representative,14819,4,4,7,12,College,18,Single,2,No,No
+355,356,22,Sales Representative,11369,4,3,28,10,Master,22,Divorced,9,No,No
+356,357,55,Research Scientist,11283,4,4,14,14,Master,2,Single,9,No,No
+357,358,53,Manufacturing Director,15171,2,1,21,2,Bachelor,21,Married,0,No,No
+358,359,46,Research Scientist,7774,3,4,28,2,Doctor,36,Single,5,No,No
+359,360,22,Sales Representative,8519,3,4,26,9,Bachelor,44,Married,0,Yes,No
+360,361,37,Research Scientist,12983,1,1,12,11,Bachelor,39,Married,8,Yes,Yes
+361,362,26,Sales Executive,16939,4,2,16,12,Master,47,Married,1,No,No
+362,363,43,Human Resources,2781,2,2,20,14,Bachelor,39,Divorced,1,Yes,No
+363,364,50,Sales Executive,18282,4,1,23,2,Doctor,29,Divorced,6,Yes,No
+364,365,24,Research Director,8823,4,4,2,5,Bachelor,26,Married,1,Yes,Yes
+365,366,33,Research Scientist,9193,2,1,27,11,Doctor,21,Single,9,No,No
+366,367,47,Research Director,4113,3,2,5,14,Bachelor,17,Single,7,No,Yes
+367,368,37,Laboratory Technician,18280,4,3,4,5,Doctor,16,Divorced,5,Yes,No
+368,369,58,Manager,15565,4,4,21,12,Bachelor,31,Married,6,No,No
+369,370,43,Laboratory Technician,12183,3,2,25,12,Bachelor,9,Single,6,No,No
+370,371,50,Sales Representative,19961,2,4,16,2,College,31,Married,5,Yes,No
+371,372,35,Human Resources,11203,1,1,22,2,Doctor,14,Single,9,No,No
+372,373,49,Research Scientist,17795,3,3,24,7,Doctor,49,Divorced,8,No,No
+373,374,26,Healthcare Representative,15489,1,1,1,7,Doctor,37,Married,8,No,No
+374,375,51,Manager,7546,1,3,25,6,Below College,2,Married,6,No,No
+375,376,26,Manufacturing Director,8852,3,4,14,9,Bachelor,48,Single,8,Yes,No
+376,377,33,Manufacturing Director,4551,4,4,4,3,Doctor,46,Single,9,No,No
+377,378,37,Manufacturing Director,8411,1,1,25,14,Below College,14,Single,2,Yes,Yes
+378,379,47,Research Scientist,18391,1,3,19,3,College,33,Married,2,No,No
+379,380,47,Manufacturing Director,2475,2,3,5,2,Doctor,35,Divorced,0,No,No
+380,381,42,Sales Executive,12403,4,4,5,4,Doctor,39,Divorced,4,No,Yes
+381,382,57,Manager,9239,1,1,26,2,Below College,47,Single,3,Yes,Yes
+382,383,54,Sales Executive,8710,2,3,17,12,Bachelor,20,Divorced,1,No,No
+383,384,51,Manager,10078,4,4,17,7,College,2,Single,8,No,Yes
+384,385,58,Sales Executive,4285,3,2,3,6,Doctor,41,Divorced,2,No,Yes
+385,386,44,Manager,7223,3,1,16,12,Bachelor,19,Married,7,No,No
+386,387,31,Research Director,15521,2,2,24,2,College,37,Single,5,No,Yes
+387,388,26,Research Scientist,16889,3,1,13,8,Master,18,Divorced,4,No,No
+388,389,57,Research Scientist,8971,1,4,13,11,Master,16,Married,0,No,No
+389,390,55,Manufacturing Director,13531,4,3,12,13,College,4,Divorced,3,No,No
+390,391,52,Laboratory Technician,16721,1,3,6,12,Below College,12,Married,2,No,No
+391,392,31,Manufacturing Director,6943,1,3,11,4,College,29,Married,0,No,No
+392,393,40,Sales Representative,8530,3,1,22,8,College,7,Divorced,4,Yes,No
+393,394,53,Sales Executive,13116,1,4,14,6,Below College,14,Divorced,5,No,No
+394,395,22,Manager,2258,3,2,18,14,Below College,12,Married,1,No,No
+395,396,26,Laboratory Technician,2282,4,4,10,6,Bachelor,35,Married,2,Yes,Yes
+396,397,25,Sales Representative,15937,4,2,14,5,Bachelor,5,Married,5,No,No
+397,398,37,Research Scientist,3898,1,1,11,1,Below College,17,Single,3,No,No
+398,399,45,Research Scientist,6135,2,1,2,8,Master,42,Married,8,No,No
+399,400,37,Manufacturing Director,8629,3,2,16,5,Master,32,Single,4,No,No
+400,401,23,Sales Executive,13168,3,2,2,7,College,10,Married,3,Yes,No
+401,402,49,Laboratory Technician,2612,1,2,18,0,Doctor,43,Single,1,Yes,Yes
+402,403,53,Human Resources,16203,3,4,19,4,College,17,Married,5,No,No
+403,404,48,Sales Representative,19071,3,2,3,11,College,5,Married,9,Yes,No
+404,405,41,Sales Representative,4307,2,1,2,0,Doctor,45,Married,1,Yes,Yes
+405,406,45,Manufacturing Director,9133,2,1,25,9,Below College,42,Divorced,6,No,No
+406,407,33,Research Scientist,13205,1,3,15,10,Master,9,Divorced,2,No,No
+407,408,56,Manufacturing Director,7906,2,2,11,13,College,49,Married,8,No,No
+408,409,54,Manager,4591,1,4,7,7,Doctor,33,Single,4,No,Yes
+409,410,54,Laboratory Technician,17149,4,4,23,7,Bachelor,36,Single,7,Yes,No
+410,411,58,Sales Executive,14150,1,4,28,0,College,36,Married,5,Yes,Yes
+411,412,33,Research Director,9183,4,3,28,8,Master,18,Divorced,9,No,No
+412,413,24,Healthcare Representative,12102,1,1,16,1,Below College,9,Single,7,No,No
+413,414,22,Healthcare Representative,19053,3,4,6,11,College,29,Divorced,2,Yes,Yes
+414,415,54,Manufacturing Director,3283,2,1,10,8,College,14,Single,2,No,No
+415,416,31,Manager,2923,4,3,17,0,Doctor,25,Married,4,Yes,No
+416,417,50,Laboratory Technician,3125,1,2,0,11,Bachelor,15,Divorced,9,No,Yes
+417,418,34,Human Resources,3529,2,2,2,9,Bachelor,6,Single,2,Yes,No
+418,419,33,Healthcare Representative,10438,1,2,3,13,Below College,42,Married,7,Yes,Yes
+419,420,52,Laboratory Technician,18154,2,4,12,13,Master,29,Married,9,Yes,No
+420,421,23,Sales Executive,10004,2,2,5,8,Below College,15,Married,7,No,Yes
+421,422,56,Manager,11752,1,4,25,3,College,29,Divorced,1,No,No
+422,423,44,Research Scientist,12592,4,3,13,8,College,4,Divorced,3,No,No
+423,424,38,Laboratory Technician,5864,4,3,4,6,Bachelor,18,Married,9,No,No
+424,425,47,Sales Executive,2226,3,4,15,10,Master,49,Divorced,0,No,No
+425,426,29,Human Resources,17036,2,1,14,5,Doctor,44,Single,3,Yes,No
+426,427,50,Research Director,13739,3,2,14,14,Master,39,Married,3,No,No
+427,428,47,Research Scientist,18648,3,2,29,4,College,16,Married,9,No,No
+428,429,31,Research Director,11587,1,2,3,10,Doctor,11,Divorced,8,No,No
+429,430,47,Human Resources,13749,1,4,7,8,Master,14,Married,2,Yes,Yes
+430,431,55,Sales Executive,2645,1,3,26,1,Master,3,Single,1,No,No
+431,432,28,Healthcare Representative,18299,2,2,15,13,Doctor,42,Divorced,8,Yes,No
+432,433,25,Research Director,15675,1,3,27,12,College,38,Divorced,8,No,No
+433,434,32,Research Scientist,12964,1,2,15,10,Master,45,Married,0,Yes,Yes
+434,435,50,Manufacturing Director,18087,2,2,29,13,Doctor,42,Married,5,No,No
+435,436,57,Sales Representative,15537,2,4,3,11,College,18,Married,9,No,No
+436,437,46,Laboratory Technician,15269,4,1,12,1,Doctor,20,Divorced,7,No,Yes
+437,438,42,Healthcare Representative,11346,1,4,25,10,Doctor,48,Married,2,No,Yes
+438,439,57,Research Director,2587,1,2,27,11,Master,25,Single,8,No,No
+439,440,31,Laboratory Technician,14763,1,2,12,14,College,38,Married,1,No,No
+440,441,58,Manufacturing Director,11177,4,1,1,8,Master,13,Married,5,No,No
+441,442,30,Human Resources,6079,1,3,2,11,Below College,4,Divorced,0,No,No
+442,443,45,Sales Representative,5348,4,3,21,2,Below College,14,Married,6,No,No
+443,444,56,Sales Executive,12785,3,2,7,7,College,33,Divorced,2,Yes,No
+444,445,56,Manufacturing Director,14328,4,3,23,10,Doctor,28,Married,6,No,No
+445,446,57,Manufacturing Director,8450,3,2,14,14,Master,37,Single,3,No,No
+446,447,39,Human Resources,15230,1,1,10,8,Master,8,Single,8,No,No
+447,448,53,Manager,7433,3,1,8,7,College,44,Divorced,4,No,No
+448,449,45,Human Resources,3098,4,2,6,3,College,34,Divorced,2,No,No
+449,450,44,Manager,9096,2,1,12,11,Below College,44,Married,7,Yes,No
+450,451,53,Manager,13439,3,4,1,0,Bachelor,5,Married,5,Yes,No
+451,452,58,Healthcare Representative,11087,3,4,7,3,College,5,Single,1,Yes,No
+452,453,33,Healthcare Representative,18021,1,1,6,13,Bachelor,31,Married,2,No,No
+453,454,34,Research Scientist,8416,4,2,23,8,College,45,Single,7,No,Yes
+454,455,44,Research Director,8980,3,2,11,1,Doctor,9,Divorced,9,No,No
+455,456,46,Research Director,13101,3,1,18,2,Doctor,42,Married,6,No,No
+456,457,56,Sales Executive,9950,3,3,6,9,Below College,32,Divorced,9,Yes,No
+457,458,51,Research Director,11122,3,4,9,7,Below College,33,Married,5,No,No
+458,459,38,Healthcare Representative,14576,2,3,28,5,Bachelor,3,Single,0,No,No
+459,460,41,Research Scientist,3089,4,2,24,7,College,30,Divorced,8,No,Yes
+460,461,46,Research Scientist,6578,1,2,15,6,Master,12,Divorced,2,No,No
+461,462,43,Manager,11127,1,3,2,13,Below College,29,Married,4,No,No
+462,463,34,Human Resources,12487,2,1,29,12,Master,3,Divorced,6,No,No
+463,464,40,Sales Executive,2155,4,3,9,12,Master,26,Single,6,No,No
+464,465,57,Manager,3958,3,3,5,4,College,30,Divorced,2,Yes,No
+465,466,33,Human Resources,12693,2,4,17,8,Bachelor,9,Divorced,3,Yes,Yes
+466,467,40,Research Director,8344,4,4,17,3,College,26,Married,9,No,No
+467,468,33,Manager,7779,3,3,4,5,Below College,2,Divorced,6,No,No
+468,469,30,Laboratory Technician,5830,2,3,20,1,Master,3,Married,7,No,No
+469,470,28,Research Director,11046,4,2,28,14,College,46,Married,1,No,No
+470,471,49,Human Resources,11794,1,4,6,1,College,4,Divorced,8,No,No
+471,472,35,Sales Executive,2441,1,4,27,1,College,25,Single,6,Yes,Yes
+472,473,52,Human Resources,16478,4,2,1,9,Below College,13,Married,7,No,Yes
+473,474,40,Manager,6628,1,1,10,6,Bachelor,39,Divorced,5,No,No
+474,475,37,Manager,8370,4,4,29,12,College,44,Married,5,Yes,Yes
+475,476,26,Manufacturing Director,11528,3,4,12,1,Below College,35,Single,8,No,No
+476,477,56,Sales Executive,19332,4,1,22,14,Master,23,Single,3,No,No
+477,478,33,Research Director,13565,3,4,4,14,Doctor,9,Married,4,No,No
+478,479,46,Research Scientist,10179,2,4,29,11,Below College,2,Single,8,No,No
+479,480,42,Sales Executive,18013,4,1,5,14,Doctor,41,Divorced,0,No,No
+480,481,57,Research Scientist,18843,2,1,23,12,College,44,Divorced,3,No,No
+481,482,44,Sales Executive,2392,1,3,25,1,College,31,Married,6,No,No
+482,483,37,Sales Executive,14130,3,2,28,14,Below College,44,Single,8,No,No
+483,484,35,Human Resources,12449,4,2,13,8,Doctor,47,Divorced,9,Yes,No
+484,485,52,Sales Executive,19522,2,1,11,6,College,2,Divorced,5,No,No
+485,486,26,Manufacturing Director,9418,3,1,3,10,Master,32,Divorced,7,Yes,No
+486,487,56,Manager,4454,3,4,28,2,Bachelor,18,Married,8,Yes,No
+487,488,44,Sales Representative,19761,1,3,22,2,Bachelor,13,Married,9,No,No
+488,489,50,Research Scientist,17223,1,3,5,6,College,46,Divorced,3,Yes,Yes
+489,490,32,Manager,8701,3,1,9,4,Doctor,5,Divorced,0,No,No
+490,491,39,Sales Representative,4597,3,4,17,9,College,42,Single,7,Yes,No
+491,492,33,Research Scientist,2141,4,4,14,13,Doctor,44,Single,1,No,No
+492,493,30,Research Scientist,4659,3,2,7,13,Master,10,Single,0,Yes,No
+493,494,31,Sales Representative,11031,4,2,25,5,Doctor,43,Married,6,Yes,No
+494,495,38,Sales Executive,17037,3,4,8,12,College,25,Divorced,9,Yes,No
+495,496,59,Research Director,15970,1,2,4,11,Master,34,Married,8,No,No
+496,497,28,Laboratory Technician,7661,4,1,9,7,Below College,37,Divorced,8,No,No
+497,498,34,Manager,8142,2,4,19,8,Bachelor,30,Single,2,Yes,No
+498,499,30,Human Resources,14109,1,2,5,0,College,7,Single,5,No,No
+499,500,48,Manager,10787,4,3,15,2,College,6,Single,6,No,No
+500,501,23,Human Resources,12096,4,4,23,10,College,3,Single,9,No,No
+501,502,26,Sales Representative,10472,2,4,26,6,Master,13,Divorced,8,No,No
+502,503,50,Human Resources,18807,4,3,2,5,Below College,3,Single,1,No,No
+503,504,58,Research Scientist,6249,3,1,9,6,Doctor,26,Divorced,7,Yes,No
+504,505,59,Research Director,16949,2,3,10,7,Below College,24,Divorced,6,No,No
+505,506,40,Research Director,3750,1,4,10,5,Master,6,Married,3,No,No
+506,507,29,Research Scientist,6088,1,1,16,2,College,43,Single,1,No,No
+507,508,22,Manufacturing Director,17282,3,2,3,1,Bachelor,49,Single,7,Yes,No
+508,509,43,Sales Representative,11641,1,2,3,11,College,42,Married,4,Yes,Yes
+509,510,38,Manufacturing Director,7075,4,2,16,6,Doctor,12,Divorced,5,No,Yes
+510,511,28,Manufacturing Director,12412,4,4,8,11,Bachelor,49,Single,6,No,No
+511,512,46,Manager,17686,3,3,18,11,College,36,Divorced,9,No,No
+512,513,25,Manager,9230,1,1,4,11,Bachelor,2,Married,0,No,No
+513,514,57,Laboratory Technician,17432,1,2,21,10,Below College,11,Divorced,7,Yes,Yes
+514,515,27,Human Resources,13002,3,1,23,0,Master,39,Single,3,No,No
+515,516,52,Research Scientist,15947,2,4,5,2,College,34,Divorced,8,No,No
+516,517,40,Manager,15686,1,2,2,11,Doctor,26,Divorced,0,No,No
+517,518,48,Sales Representative,19915,2,4,21,10,Below College,18,Single,1,Yes,No
+518,519,31,Human Resources,15074,1,3,0,3,College,21,Single,5,No,No
+519,520,47,Laboratory Technician,6493,1,4,19,12,Below College,36,Divorced,9,No,No
+520,521,40,Laboratory Technician,19317,1,4,21,13,Doctor,40,Divorced,0,Yes,Yes
+521,522,24,Sales Representative,3460,1,3,15,0,College,46,Married,3,No,No
+522,523,34,Manufacturing Director,16140,4,1,22,4,Doctor,44,Single,7,No,Yes
+523,524,49,Research Director,12704,2,3,10,9,Bachelor,22,Divorced,9,Yes,Yes
+524,525,41,Sales Representative,18669,2,3,12,2,Doctor,30,Single,4,No,No
+525,526,49,Healthcare Representative,18648,1,4,26,1,Bachelor,43,Married,8,No,No
+526,527,29,Sales Representative,8816,1,1,9,14,College,30,Divorced,5,No,No
+527,528,22,Laboratory Technician,13639,2,2,2,2,Bachelor,8,Divorced,0,No,No
+528,529,24,Research Scientist,16424,4,3,8,7,College,34,Divorced,5,No,No
+529,530,34,Manager,15965,3,1,27,5,College,47,Single,5,Yes,No
+530,531,49,Research Scientist,13240,3,3,11,12,Master,9,Married,5,No,No
+531,532,46,Laboratory Technician,2040,2,3,22,13,College,20,Single,7,No,No
+532,533,54,Manager,7827,1,3,13,6,Bachelor,40,Divorced,5,No,No
+533,534,59,Healthcare Representative,10259,1,3,0,11,Master,25,Married,4,No,No
+534,535,27,Research Director,19371,4,4,17,5,Master,19,Divorced,1,Yes,No
+535,536,53,Human Resources,16849,3,1,16,5,College,5,Divorced,3,No,Yes
+536,537,42,Laboratory Technician,18232,4,1,26,11,Doctor,11,Single,9,No,No
+537,538,37,Laboratory Technician,9804,3,1,8,2,Doctor,15,Divorced,4,Yes,No
+538,539,42,Laboratory Technician,7374,2,3,8,11,Master,8,Married,9,No,No
+539,540,32,Manager,4524,3,4,22,12,College,19,Divorced,3,No,No
+540,541,58,Sales Executive,11277,4,3,9,13,Doctor,23,Divorced,1,No,Yes
+541,542,57,Sales Representative,11885,4,3,18,7,College,27,Single,6,Yes,Yes
+542,543,56,Sales Executive,2778,4,1,28,11,College,40,Married,9,No,No
+543,544,40,Healthcare Representative,3492,2,3,14,6,Master,32,Single,9,Yes,Yes
+544,545,41,Research Director,19044,3,2,4,6,Master,26,Divorced,1,Yes,No
+545,546,39,Manufacturing Director,19732,3,3,14,5,Below College,27,Single,0,No,No
+546,547,35,Healthcare Representative,15615,4,2,19,4,Doctor,19,Single,4,Yes,No
+547,548,36,Manufacturing Director,14132,3,3,22,9,Doctor,42,Single,0,Yes,Yes
+548,549,52,Manufacturing Director,12178,1,4,29,7,Doctor,29,Single,0,Yes,Yes
+549,550,22,Research Director,9851,1,4,24,4,Bachelor,39,Divorced,0,Yes,Yes
+550,551,24,Research Scientist,18288,1,1,27,8,College,41,Divorced,5,Yes,Yes
+551,552,37,Sales Executive,9156,3,3,1,8,Master,33,Married,8,No,No
+552,553,44,Laboratory Technician,4044,2,2,12,0,Doctor,19,Single,9,Yes,No
+553,554,32,Human Resources,9368,2,2,23,5,Below College,37,Single,0,Yes,No
+554,555,33,Manufacturing Director,15635,2,3,15,6,Doctor,19,Married,4,Yes,No
+555,556,31,Healthcare Representative,11168,2,2,14,2,College,33,Single,8,No,Yes
+556,557,53,Research Scientist,19111,1,4,24,6,College,47,Married,8,No,No
+557,558,37,Manufacturing Director,13328,1,2,9,10,Master,16,Divorced,0,No,No
+558,559,29,Research Scientist,15319,4,1,13,10,Bachelor,23,Married,7,No,No
+559,560,59,Research Scientist,2342,3,4,9,6,Master,7,Single,0,No,Yes
+560,561,33,Manufacturing Director,3447,3,4,24,13,Doctor,26,Married,7,No,No
+561,562,45,Manager,8581,2,4,13,12,Below College,32,Divorced,0,Yes,No
+562,563,49,Sales Representative,13851,1,3,25,10,Master,12,Single,4,No,No
+563,564,29,Laboratory Technician,8317,2,3,29,1,Bachelor,8,Divorced,7,No,Yes
+564,565,49,Laboratory Technician,18910,4,4,22,6,Master,5,Divorced,5,No,No
+565,566,57,Manager,12088,3,3,8,14,College,42,Married,8,Yes,No
+566,567,47,Laboratory Technician,14946,3,2,24,0,Doctor,28,Divorced,0,No,No
+567,568,29,Research Scientist,18789,2,3,13,4,Doctor,5,Single,8,Yes,No
+568,569,49,Research Director,16567,4,3,2,8,Doctor,49,Divorced,0,Yes,No
+569,570,49,Healthcare Representative,16868,3,4,19,6,Doctor,26,Divorced,9,No,No
+570,571,58,Sales Executive,11765,4,1,15,6,Doctor,5,Married,9,No,No
+571,572,57,Laboratory Technician,14466,4,1,1,10,Doctor,22,Divorced,2,No,No
+572,573,48,Research Director,19862,2,1,9,12,Below College,15,Married,0,No,No
+573,574,38,Manufacturing Director,12587,1,2,2,11,Bachelor,13,Married,2,Yes,Yes
+574,575,30,Sales Representative,2771,2,3,10,1,Doctor,28,Single,1,Yes,No
+575,576,54,Research Scientist,18300,1,1,10,7,Bachelor,33,Single,1,Yes,Yes
+576,577,41,Sales Representative,10770,4,4,20,2,Doctor,43,Single,8,No,No
+577,578,34,Healthcare Representative,13093,1,1,20,14,Master,23,Single,7,Yes,Yes
+578,579,49,Healthcare Representative,15803,4,1,21,7,Doctor,33,Married,0,Yes,No
+579,580,50,Manager,2193,3,3,12,2,College,43,Divorced,3,No,No
+580,581,34,Human Resources,4007,3,3,6,9,Below College,18,Single,0,Yes,Yes
+581,582,56,Manager,19569,3,3,22,6,Master,30,Single,0,No,No
+582,583,27,Research Director,13190,2,2,16,1,Master,26,Single,3,No,Yes
+583,584,39,Sales Representative,11984,2,2,29,3,College,16,Divorced,1,No,No
+584,585,26,Human Resources,11302,4,1,1,10,Doctor,13,Single,2,No,No
+585,586,46,Manufacturing Director,9429,3,3,11,5,Below College,39,Divorced,8,No,No
+586,587,23,Research Scientist,4261,2,1,24,10,Master,33,Married,1,Yes,No
+587,588,31,Sales Representative,8716,3,4,9,8,Below College,26,Married,3,No,Yes
+588,589,51,Manager,10921,2,4,17,4,Master,48,Married,0,No,Yes
+589,590,26,Sales Executive,6378,1,3,21,12,Doctor,1,Divorced,1,Yes,Yes
+590,591,54,Human Resources,9815,1,3,26,8,Master,49,Single,4,Yes,Yes
+591,592,22,Human Resources,15778,3,4,10,14,Master,38,Single,9,No,No
+592,593,39,Research Scientist,14728,4,3,15,4,Bachelor,2,Single,0,No,No
+593,594,53,Laboratory Technician,12332,2,2,16,9,Doctor,49,Single,6,No,No
+594,595,32,Healthcare Representative,11836,2,2,18,7,College,6,Single,3,No,No
+595,596,42,Healthcare Representative,4800,1,3,17,12,College,46,Divorced,5,Yes,Yes
+596,597,47,Sales Executive,10333,1,4,2,12,Doctor,38,Married,7,No,No
+597,598,46,Research Director,7410,4,1,20,0,College,42,Single,5,No,No
+598,599,43,Research Director,19839,4,3,26,6,Doctor,24,Married,1,Yes,No
+599,600,48,Manufacturing Director,7808,4,3,25,3,College,18,Divorced,0,No,Yes
+600,601,34,Sales Representative,8796,3,1,15,4,Bachelor,27,Divorced,7,No,No
+601,602,54,Laboratory Technician,12288,1,3,5,5,College,41,Single,7,No,No
+602,603,55,Manager,19709,3,1,24,4,Master,8,Divorced,8,Yes,No
+603,604,56,Human Resources,19543,1,4,11,11,Doctor,28,Married,5,No,No
+604,605,22,Sales Executive,6650,1,2,10,0,Below College,10,Single,0,No,Yes
+605,606,42,Healthcare Representative,6987,2,4,14,11,Below College,17,Single,8,No,Yes
+606,607,27,Manufacturing Director,17200,1,2,14,8,Doctor,29,Married,2,No,No
+607,608,49,Research Director,6697,1,1,15,1,Bachelor,6,Single,5,Yes,Yes
+608,609,38,Sales Executive,18724,3,2,9,8,College,14,Single,9,No,No
+609,610,26,Human Resources,5828,1,4,11,9,Bachelor,22,Married,9,No,No
+610,611,52,Manager,19087,3,2,27,1,Below College,6,Single,8,Yes,No
+611,612,26,Manufacturing Director,14605,4,1,12,8,Doctor,26,Single,2,No,No
+612,613,59,Human Resources,7482,1,2,3,5,Doctor,39,Married,4,No,No
+613,614,24,Healthcare Representative,7463,1,3,6,10,Bachelor,12,Divorced,4,No,No
+614,615,44,Healthcare Representative,15860,3,4,21,8,Bachelor,35,Married,9,Yes,No
+615,616,58,Healthcare Representative,6912,4,3,1,12,College,14,Single,6,No,No
+616,617,58,Sales Executive,6648,2,1,25,5,Master,22,Married,3,No,Yes
+617,618,31,Sales Executive,2855,4,2,26,5,Master,23,Single,3,No,No
+618,619,31,Research Director,4866,3,3,26,12,College,48,Single,6,No,Yes
+619,620,40,Research Director,13834,4,3,26,10,Master,7,Married,8,No,No
+620,621,38,Manager,18294,3,2,14,13,Below College,40,Single,3,Yes,No
+621,622,42,Manufacturing Director,18566,3,2,7,1,Master,25,Divorced,3,No,No
+622,623,35,Research Scientist,5112,2,4,6,7,College,13,Single,5,No,No
+623,624,30,Research Scientist,6492,1,3,14,2,Master,21,Married,5,No,No
+624,625,22,Human Resources,17114,3,3,22,6,Doctor,41,Divorced,6,Yes,No
+625,626,34,Healthcare Representative,3517,3,1,13,4,Bachelor,10,Divorced,0,No,Yes
+626,627,25,Manufacturing Director,18018,2,4,7,2,Below College,9,Single,2,No,No
+627,628,22,Sales Executive,19740,3,1,27,0,Doctor,15,Married,8,No,Yes
+628,629,53,Sales Representative,13431,1,3,11,7,Doctor,2,Single,5,Yes,Yes
+629,630,55,Laboratory Technician,10210,2,1,12,2,College,25,Single,5,Yes,No
+630,631,49,Manager,13595,1,3,29,1,Bachelor,13,Married,4,No,No
+631,632,52,Healthcare Representative,14871,1,3,10,0,Bachelor,34,Married,2,Yes,Yes
+632,633,29,Healthcare Representative,14743,2,1,16,3,Below College,34,Single,4,No,No
+633,634,47,Healthcare Representative,11324,3,1,28,12,College,35,Divorced,0,Yes,Yes
+634,635,55,Sales Executive,13531,1,2,16,7,Below College,38,Single,2,No,No
+635,636,24,Sales Executive,8588,1,2,23,12,Master,3,Divorced,3,No,No
+636,637,33,Laboratory Technician,5311,1,2,3,2,Doctor,42,Single,4,No,Yes
+637,638,22,Manufacturing Director,2987,1,3,20,13,Below College,6,Married,9,No,No
+638,639,26,Healthcare Representative,5321,2,1,7,0,Doctor,48,Divorced,8,No,No
+639,640,51,Research Scientist,17812,2,4,4,3,College,49,Married,3,Yes,No
+640,641,51,Research Director,6615,4,3,25,8,Master,19,Married,2,Yes,No
+641,642,38,Research Scientist,17512,4,4,15,12,College,3,Married,9,No,No
+642,643,44,Human Resources,15146,1,1,3,0,Master,18,Married,0,No,No
+643,644,36,Research Scientist,15654,3,3,27,11,Master,39,Married,9,No,No
+644,645,58,Human Resources,5052,1,4,21,13,Doctor,9,Single,5,No,No
+645,646,42,Sales Representative,2726,3,4,28,10,College,12,Divorced,6,No,No
+646,647,35,Research Director,5760,1,2,14,1,College,5,Single,9,No,Yes
+647,648,23,Research Scientist,3875,4,2,11,8,Below College,3,Single,7,Yes,Yes
+648,649,32,Sales Representative,15969,4,2,4,1,College,11,Single,0,No,No
+649,650,59,Manager,6033,3,3,29,12,Below College,30,Married,3,No,No
+650,651,55,Manufacturing Director,7443,1,1,22,2,Bachelor,4,Single,4,No,No
+651,652,59,Sales Representative,19373,3,1,15,6,Bachelor,5,Divorced,1,No,Yes
+652,653,55,Manufacturing Director,5744,4,2,13,2,Bachelor,1,Single,0,No,No
+653,654,39,Research Scientist,18977,1,2,9,8,College,27,Married,7,No,No
+654,655,51,Sales Representative,3774,1,2,6,5,College,28,Divorced,5,No,No
+655,656,36,Research Director,12651,3,4,12,2,Below College,29,Divorced,4,Yes,No
+656,657,48,Research Scientist,2935,2,2,19,8,Master,18,Divorced,8,Yes,No
+657,658,55,Healthcare Representative,15395,3,4,27,0,Below College,12,Divorced,1,No,No
+658,659,59,Sales Executive,5808,4,1,28,9,Bachelor,13,Single,9,No,No
+659,660,54,Sales Representative,18715,4,3,4,2,Below College,41,Married,7,No,No
+660,661,45,Research Director,13641,4,3,28,0,Master,2,Divorced,9,Yes,No
+661,662,36,Manager,16376,4,3,2,1,College,37,Divorced,8,Yes,No
+662,663,51,Healthcare Representative,7889,4,3,14,11,Below College,45,Married,0,No,No
+663,664,38,Manager,7054,2,4,3,7,Bachelor,16,Single,6,No,No
+664,665,26,Research Scientist,5868,1,4,14,6,Bachelor,48,Divorced,7,No,No
+665,666,50,Sales Executive,18585,3,2,13,1,College,24,Single,2,No,No
+666,667,25,Sales Representative,3842,3,4,19,1,Below College,35,Single,3,Yes,No
+667,668,31,Sales Representative,12058,4,2,18,8,Master,22,Single,2,No,Yes
+668,669,38,Research Scientist,11101,3,2,12,12,College,36,Single,6,No,No
+669,670,31,Research Scientist,14497,4,3,9,12,Below College,11,Divorced,8,Yes,No
+670,671,38,Sales Executive,6658,2,4,20,5,Doctor,46,Divorced,2,No,No
+671,672,41,Research Director,13381,2,4,4,4,Bachelor,29,Single,5,Yes,No
+672,673,45,Research Director,9544,1,2,26,9,Master,35,Single,7,Yes,Yes
+673,674,26,Sales Executive,9718,2,2,22,5,Master,48,Married,5,Yes,Yes
+674,675,55,Research Director,15851,2,1,19,8,Master,15,Married,1,Yes,No
+675,676,27,Human Resources,19154,1,1,28,10,Bachelor,31,Married,6,No,No
+676,677,23,Manufacturing Director,13777,3,2,19,6,Below College,42,Divorced,1,No,Yes
+677,678,34,Sales Executive,3628,4,1,24,14,College,41,Married,1,No,No
+678,679,32,Sales Executive,2386,4,1,5,9,Below College,43,Divorced,1,No,No
+679,680,44,Laboratory Technician,8031,3,2,3,9,College,16,Divorced,0,Yes,No
+680,681,37,Healthcare Representative,8439,1,2,1,13,Master,10,Divorced,0,Yes,Yes
+681,682,52,Healthcare Representative,15392,3,4,21,8,Below College,49,Divorced,6,No,No
+682,683,32,Human Resources,4282,2,2,15,3,Master,32,Married,4,No,No
+683,684,37,Research Scientist,3856,1,2,17,1,Doctor,2,Single,2,Yes,Yes
+684,685,29,Research Scientist,17670,1,3,4,11,Master,24,Single,0,No,No
+685,686,25,Manager,3998,1,4,21,7,Master,23,Single,9,No,No
+686,687,25,Human Resources,7476,4,4,3,3,College,2,Married,5,No,No
+687,688,46,Sales Executive,11428,3,4,29,12,Doctor,38,Single,0,No,No
+688,689,24,Human Resources,6669,1,3,12,8,Master,31,Married,8,Yes,Yes
+689,690,53,Human Resources,14336,1,2,18,14,Master,40,Married,1,No,No
+690,691,24,Human Resources,11342,1,4,22,14,Doctor,26,Married,0,Yes,Yes
+691,692,48,Healthcare Representative,9064,3,4,1,3,Doctor,29,Single,6,No,No
+692,693,50,Human Resources,9446,4,1,12,14,Below College,3,Single,5,Yes,Yes
+693,694,53,Manufacturing Director,19815,2,4,10,7,College,14,Single,5,No,No
+694,695,40,Research Scientist,7624,4,2,29,8,Doctor,25,Divorced,4,Yes,No
+695,696,42,Manager,9461,1,2,21,12,Doctor,48,Married,3,No,No
+696,697,26,Manufacturing Director,3819,4,1,28,8,Bachelor,1,Divorced,3,No,No
+697,698,39,Manager,12516,4,4,3,9,Doctor,3,Married,2,No,No
+698,699,49,Laboratory Technician,15749,2,4,21,3,College,26,Single,9,No,No
+699,700,43,Manager,19514,3,4,19,0,Master,18,Married,7,No,No
+700,701,42,Research Scientist,4658,3,3,19,14,Master,9,Married,6,No,No
+701,702,27,Research Scientist,5500,4,4,14,2,Master,38,Divorced,8,No,No
+702,703,22,Human Resources,4120,4,2,3,8,Master,23,Married,0,No,No
+703,704,26,Sales Representative,6020,3,2,8,3,Bachelor,21,Single,6,No,No
+704,705,33,Laboratory Technician,12213,3,3,6,4,Doctor,1,Married,9,No,No
+705,706,47,Sales Executive,5259,2,3,18,6,Master,21,Married,3,No,No
+706,707,55,Research Director,12081,1,4,18,4,Below College,27,Married,6,No,No
+707,708,35,Manager,3823,4,1,5,3,Master,42,Divorced,0,No,No
+708,709,47,Sales Representative,19858,3,3,5,14,Doctor,6,Married,4,No,No
+709,710,48,Human Resources,15467,4,3,19,1,Master,44,Married,2,No,No
+710,711,30,Healthcare Representative,8990,4,4,14,14,Bachelor,36,Divorced,4,Yes,No
+711,712,47,Sales Executive,5134,3,4,14,1,College,28,Divorced,3,No,No
+712,713,43,Sales Representative,18743,2,3,24,12,College,45,Divorced,1,No,Yes
+713,714,51,Healthcare Representative,17434,4,1,19,12,Doctor,17,Divorced,3,No,No
+714,715,38,Laboratory Technician,17007,2,3,8,3,College,40,Single,2,No,No
+715,716,47,Human Resources,12233,3,4,3,9,College,3,Single,0,Yes,No
+716,717,57,Sales Executive,18378,1,4,17,12,Below College,12,Married,9,No,No
+717,718,22,Sales Executive,3141,1,3,17,9,Doctor,39,Single,7,No,No
+718,719,29,Sales Executive,12135,4,1,4,12,Doctor,12,Married,4,No,Yes
+719,720,56,Laboratory Technician,14966,3,3,19,14,College,2,Single,3,Yes,No
+720,721,36,Manager,5361,2,3,22,8,College,46,Divorced,9,No,No
+721,722,43,Laboratory Technician,9835,4,4,29,7,College,22,Divorced,4,No,No
+722,723,35,Research Director,13172,3,1,10,2,Bachelor,23,Single,3,Yes,Yes
+723,724,47,Research Scientist,18390,3,2,4,14,Master,30,Single,2,No,No
+724,725,49,Human Resources,5267,2,1,21,13,Bachelor,5,Married,4,Yes,No
+725,726,44,Laboratory Technician,8564,4,3,25,8,Doctor,9,Married,3,No,Yes
+726,727,35,Healthcare Representative,13411,3,3,3,13,Below College,21,Married,0,Yes,No
+727,728,45,Research Director,7906,3,3,28,4,Master,11,Divorced,2,Yes,No
+728,729,23,Research Scientist,18028,3,1,11,10,Below College,5,Divorced,9,No,No
+729,730,47,Manager,9611,2,4,1,2,Doctor,35,Divorced,9,Yes,No
+730,731,35,Healthcare Representative,19297,4,3,12,4,Doctor,27,Divorced,7,Yes,No
+731,732,28,Human Resources,4011,4,3,9,12,Below College,49,Married,6,No,Yes
+732,733,24,Healthcare Representative,19826,4,1,8,9,Below College,2,Divorced,1,No,No
+733,734,44,Research Scientist,13246,4,2,9,12,Below College,24,Divorced,0,No,No
+734,735,39,Healthcare Representative,15790,1,2,6,3,Doctor,31,Divorced,2,No,No
+735,736,59,Manufacturing Director,13738,1,4,3,7,College,33,Divorced,4,No,No
+736,737,56,Sales Representative,16730,4,4,18,12,Below College,39,Single,9,No,No
+737,738,36,Manager,13120,2,3,9,11,Master,30,Married,0,Yes,No
+738,739,46,Research Scientist,10767,1,1,29,4,Doctor,46,Married,2,Yes,Yes
+739,740,58,Healthcare Representative,15703,3,3,2,9,Bachelor,37,Divorced,2,No,Yes
+740,741,49,Sales Representative,2929,1,4,24,11,Bachelor,28,Single,4,No,Yes
+741,742,31,Sales Representative,13951,3,1,20,7,Master,31,Married,2,No,No
+742,743,38,Healthcare Representative,17845,4,1,28,8,College,11,Married,8,No,Yes
+743,744,43,Human Resources,19438,1,4,18,3,Below College,23,Divorced,0,No,No
+744,745,47,Manufacturing Director,17747,2,2,20,6,Doctor,2,Divorced,3,Yes,No
+745,746,46,Laboratory Technician,7744,1,2,1,1,Below College,40,Married,9,Yes,Yes
+746,747,38,Manufacturing Director,11649,1,1,26,5,Doctor,41,Married,9,No,No
+747,748,34,Healthcare Representative,8980,1,3,19,7,Bachelor,27,Single,3,No,No
+748,749,41,Manager,9069,4,2,9,11,Below College,35,Married,0,No,Yes
+749,750,46,Laboratory Technician,11591,2,3,1,6,Master,2,Married,1,Yes,No
+750,751,25,Research Scientist,2442,1,2,1,6,College,39,Divorced,0,No,Yes
+751,752,31,Manufacturing Director,6652,2,2,27,7,Master,37,Married,5,No,No
+752,753,24,Healthcare Representative,11370,4,3,23,6,College,21,Divorced,2,Yes,No
+753,754,39,Manufacturing Director,9597,3,4,16,4,Below College,5,Married,6,No,No
+754,755,57,Laboratory Technician,16325,1,2,15,6,Below College,45,Married,4,No,No
+755,756,43,Research Director,6458,2,2,15,12,College,21,Married,8,No,No
+756,757,55,Manufacturing Director,8591,2,3,13,13,Bachelor,29,Single,6,No,No
+757,758,29,Research Scientist,18346,4,4,6,9,Doctor,20,Divorced,3,Yes,No
+758,759,40,Research Scientist,13826,1,2,20,2,Master,38,Single,4,No,No
+759,760,58,Sales Executive,16138,3,2,10,4,Master,20,Married,4,Yes,No
+760,761,27,Manufacturing Director,19294,2,4,23,6,Master,25,Single,4,No,No
+761,762,47,Human Resources,4169,1,2,0,14,Below College,2,Divorced,9,No,No
+762,763,55,Sales Representative,8313,3,4,10,8,Master,32,Married,8,No,No
+763,764,27,Sales Representative,10315,2,4,22,14,Doctor,26,Single,9,No,Yes
+764,765,58,Sales Representative,10036,2,3,20,1,Doctor,6,Single,2,No,Yes
+765,766,54,Research Director,2785,3,1,3,3,College,41,Divorced,5,No,No
+766,767,43,Sales Executive,8139,3,4,6,11,Below College,3,Single,7,No,No
+767,768,42,Research Director,8344,4,3,25,6,Doctor,33,Divorced,8,No,Yes
+768,769,27,Manufacturing Director,16973,1,1,14,0,Bachelor,1,Married,6,No,No
+769,770,27,Manufacturing Director,7619,1,2,17,12,Below College,5,Married,2,No,No
+770,771,25,Manufacturing Director,3936,4,1,11,1,Below College,13,Single,0,No,No
+771,772,51,Manager,5807,2,4,16,8,Doctor,19,Married,3,No,No
+772,773,32,Sales Representative,9151,3,4,0,12,Bachelor,12,Married,5,No,Yes
+773,774,51,Manager,11493,3,4,10,9,College,48,Single,2,Yes,No
+774,775,52,Sales Executive,14355,3,4,27,6,Doctor,25,Married,0,Yes,No
+775,776,45,Research Director,5236,2,4,0,11,Bachelor,35,Single,5,Yes,No
+776,777,30,Sales Representative,17848,3,3,14,9,Below College,12,Divorced,0,No,Yes
+777,778,24,Manager,4352,3,4,27,6,Bachelor,30,Divorced,8,No,No
+778,779,52,Manager,3932,4,3,20,5,Below College,5,Divorced,0,No,Yes
+779,780,58,Healthcare Representative,12913,2,2,9,2,Doctor,34,Single,5,No,No
+780,781,57,Manager,10556,1,4,6,9,Doctor,22,Single,0,No,No
+781,782,45,Human Resources,7498,4,4,1,2,Master,39,Married,6,No,Yes
+782,783,52,Human Resources,12582,4,1,9,1,Master,13,Married,2,Yes,No
+783,784,27,Research Director,19330,1,2,23,10,Master,47,Married,5,Yes,Yes
+784,785,23,Human Resources,15865,4,4,3,5,Doctor,3,Married,6,No,No
+785,786,41,Research Director,11569,2,4,11,3,College,20,Married,0,No,No
+786,787,49,Research Director,19823,3,2,18,4,Doctor,31,Single,0,No,No
+787,788,32,Sales Executive,6857,2,3,25,2,Bachelor,5,Single,4,Yes,No
+788,789,25,Healthcare Representative,2340,1,4,10,5,Doctor,24,Divorced,5,No,No
+789,790,36,Manufacturing Director,13181,1,1,7,10,Doctor,40,Divorced,8,Yes,Yes
+790,791,27,Research Scientist,18766,4,4,17,11,Below College,33,Divorced,0,Yes,No
+791,792,51,Research Director,10491,2,1,10,2,Below College,8,Divorced,3,Yes,No
+792,793,59,Laboratory Technician,2138,2,1,10,13,Below College,24,Single,9,Yes,No
+793,794,23,Manufacturing Director,2358,1,4,12,14,Doctor,20,Single,7,No,No
+794,795,36,Sales Representative,11714,2,4,2,13,College,16,Single,9,Yes,No
+795,796,32,Human Resources,3627,1,1,11,7,Bachelor,12,Married,8,No,No
+796,797,29,Research Scientist,17996,2,2,2,8,Bachelor,13,Married,2,No,No
+797,798,47,Laboratory Technician,7004,2,2,9,3,College,45,Divorced,1,Yes,No
+798,799,26,Manufacturing Director,15283,2,4,26,14,College,42,Married,3,Yes,No
+799,800,27,Sales Executive,8652,1,3,16,8,Bachelor,39,Single,1,No,Yes
+800,801,47,Sales Representative,4151,4,2,21,11,Master,25,Divorced,0,Yes,No
+801,802,25,Research Scientist,11429,2,4,1,6,Below College,46,Divorced,2,No,No
+802,803,40,Healthcare Representative,16072,1,2,16,2,Below College,32,Married,6,No,No
+803,804,41,Sales Executive,13927,1,3,15,6,Bachelor,24,Divorced,0,Yes,Yes
+804,805,54,Laboratory Technician,8905,2,4,1,13,College,48,Married,1,No,No
+805,806,41,Research Scientist,14452,2,3,27,0,Master,47,Married,0,Yes,No
+806,807,33,Sales Executive,18212,4,4,21,2,Bachelor,44,Divorced,7,No,Yes
+807,808,22,Sales Representative,3307,1,3,29,5,Below College,9,Married,4,No,No
+808,809,47,Healthcare Representative,16852,1,2,19,3,Doctor,40,Married,7,Yes,Yes
+809,810,35,Sales Executive,4660,3,2,5,6,College,23,Married,2,Yes,Yes
+810,811,59,Manager,12403,1,3,27,13,Doctor,13,Married,6,No,No
+811,812,58,Healthcare Representative,12238,4,3,24,2,Bachelor,32,Divorced,7,No,No
+812,813,32,Laboratory Technician,8207,3,3,28,0,Below College,15,Single,5,Yes,No
+813,814,57,Sales Representative,3140,3,4,9,8,Master,36,Single,6,No,Yes
+814,815,34,Human Resources,3708,3,2,27,14,Doctor,49,Married,1,No,No
+815,816,24,Human Resources,5630,2,4,9,5,Master,5,Married,7,No,No
+816,817,54,Human Resources,12485,2,2,7,7,Below College,22,Married,4,Yes,No
+817,818,27,Research Scientist,14021,1,1,0,2,Doctor,16,Single,6,No,No
+818,819,31,Laboratory Technician,18859,3,4,12,7,Master,41,Married,0,No,No
+819,820,26,Sales Representative,9684,4,2,23,1,Master,10,Divorced,4,Yes,No
+820,821,44,Healthcare Representative,3207,2,2,8,11,Doctor,24,Divorced,0,No,Yes
+821,822,31,Research Scientist,15331,4,4,21,3,Below College,18,Divorced,7,No,Yes
+822,823,23,Laboratory Technician,3960,4,4,9,2,Master,49,Single,3,No,No
+823,824,34,Manager,2557,2,2,14,9,Bachelor,18,Married,3,Yes,No
+824,825,23,Sales Representative,17883,2,4,4,0,Doctor,7,Married,1,No,No
+825,826,41,Human Resources,15893,2,3,21,14,College,4,Married,4,No,No
+826,827,22,Sales Executive,2882,2,4,15,12,College,26,Single,0,No,No
+827,828,58,Sales Representative,6761,3,4,12,12,Below College,5,Single,8,No,No
+828,829,30,Research Director,7867,3,4,21,6,Bachelor,16,Single,4,No,No
+829,830,38,Laboratory Technician,14869,3,2,24,10,Master,35,Single,5,No,Yes
+830,831,30,Manufacturing Director,9166,3,3,19,9,College,26,Divorced,1,Yes,No
+831,832,32,Manager,14982,1,1,17,1,Below College,18,Single,9,No,No
+832,833,36,Sales Representative,9929,3,1,10,3,Bachelor,29,Single,9,No,No
+833,834,45,Manufacturing Director,7347,2,3,26,8,Bachelor,23,Single,0,Yes,No
+834,835,59,Research Director,9269,4,3,8,5,Below College,14,Married,3,No,No
+835,836,56,Healthcare Representative,15527,3,3,15,7,Below College,15,Married,6,No,No
+836,837,51,Sales Executive,4454,1,2,1,1,Master,49,Married,5,Yes,Yes
+837,838,52,Manufacturing Director,14991,2,1,25,6,Below College,33,Divorced,9,Yes,No
+838,839,26,Laboratory Technician,4808,4,3,24,5,Master,25,Divorced,0,Yes,No
+839,840,35,Human Resources,8642,4,2,1,12,Master,21,Single,0,Yes,No
+840,841,32,Research Director,5825,3,1,11,13,Doctor,17,Married,7,No,No
+841,842,30,Sales Executive,5536,4,4,7,8,Bachelor,23,Divorced,3,Yes,No
+842,843,55,Manager,17309,3,2,8,6,Bachelor,43,Married,4,No,No
+843,844,33,Human Resources,5802,3,1,11,0,Bachelor,17,Divorced,6,No,No
+844,845,56,Sales Representative,8142,2,2,25,13,Doctor,14,Divorced,7,Yes,No
+845,846,56,Manufacturing Director,11094,2,1,8,7,Master,29,Single,9,No,No
+846,847,22,Sales Executive,2364,1,1,9,10,Master,20,Single,6,No,No
+847,848,43,Research Scientist,17688,2,4,24,9,Below College,30,Divorced,1,No,Yes
+848,849,50,Healthcare Representative,3863,2,2,1,14,Doctor,19,Single,3,Yes,Yes
+849,850,29,Healthcare Representative,18499,3,3,15,2,Below College,39,Divorced,9,Yes,No
+850,851,32,Research Director,9084,2,4,19,13,Doctor,13,Divorced,0,No,No
+851,852,58,Manager,10016,3,4,6,1,Below College,18,Married,9,No,No
+852,853,35,Research Director,4384,3,1,27,11,College,23,Single,8,No,No
+853,854,51,Research Scientist,17072,2,3,1,2,Bachelor,46,Single,2,No,No
+854,855,56,Laboratory Technician,5935,1,2,0,10,Bachelor,33,Single,2,Yes,Yes
+855,856,42,Manager,15127,1,3,18,5,Master,39,Married,9,No,Yes
+856,857,58,Laboratory Technician,16482,4,3,27,12,College,40,Married,8,Yes,Yes
+857,858,26,Manager,9742,4,3,3,13,Bachelor,18,Married,9,Yes,No
+858,859,40,Manager,18165,2,3,23,2,Master,9,Single,2,No,No
+859,860,35,Research Scientist,4490,1,3,21,9,College,33,Single,7,Yes,Yes
+860,861,47,Sales Representative,15324,3,1,26,4,Bachelor,32,Single,1,No,No
+861,862,25,Research Scientist,3137,4,1,1,5,Below College,17,Married,2,No,Yes
+862,863,46,Manager,5420,3,4,24,7,Doctor,19,Married,1,Yes,No
+863,864,46,Sales Executive,7845,4,1,13,6,College,27,Divorced,0,No,No
+864,865,39,Laboratory Technician,5906,2,4,1,13,Master,6,Married,1,No,No
+865,866,29,Research Scientist,14413,1,4,28,10,College,35,Divorced,7,No,No
+866,867,35,Sales Representative,2276,4,2,14,7,Master,37,Single,8,Yes,No
+867,868,53,Manufacturing Director,19611,1,3,11,2,College,34,Married,1,No,No
+868,869,59,Research Director,8337,3,1,4,3,Master,20,Single,6,No,No
+869,870,54,Manager,13944,2,2,27,5,Bachelor,25,Single,4,No,No
+870,871,44,Manufacturing Director,17906,1,1,19,10,Below College,4,Single,2,Yes,Yes
+871,872,36,Healthcare Representative,19079,2,4,28,6,Bachelor,10,Single,8,No,No
+872,873,54,Human Resources,14306,1,1,6,8,Below College,10,Married,5,Yes,Yes
+873,874,46,Sales Representative,12503,3,3,23,12,Bachelor,24,Single,0,No,No
+874,875,38,Human Resources,6208,3,4,20,0,Bachelor,21,Divorced,4,Yes,Yes
+875,876,54,Sales Representative,13590,2,4,9,12,College,11,Married,6,No,No
+876,877,23,Sales Executive,12886,3,2,13,14,Doctor,27,Single,3,No,No
+877,878,35,Research Director,14866,4,3,13,7,Master,16,Married,7,Yes,Yes
+878,879,27,Manufacturing Director,3088,1,4,4,7,Master,26,Divorced,9,Yes,Yes
+879,880,27,Laboratory Technician,5363,3,3,17,5,Master,30,Single,4,No,No
+880,881,24,Sales Representative,2024,4,1,23,3,Below College,49,Divorced,8,No,Yes
+881,882,28,Laboratory Technician,11764,2,3,13,2,Master,16,Single,8,No,No
+882,883,29,Research Director,11959,4,4,1,10,Master,7,Divorced,8,No,No
+883,884,36,Manager,14935,2,2,25,2,College,16,Single,0,Yes,Yes
+884,885,50,Healthcare Representative,10068,2,4,11,5,Bachelor,35,Married,1,No,No
+885,886,54,Manufacturing Director,9295,1,3,21,12,Master,16,Single,2,No,No
+886,887,51,Research Director,10392,1,3,23,7,Doctor,40,Married,3,No,No
+887,888,48,Research Director,13390,4,4,5,6,Master,12,Single,9,No,No
+888,889,57,Sales Executive,10448,1,3,3,10,Below College,35,Single,8,No,No
+889,890,50,Human Resources,12433,1,1,12,0,Below College,49,Divorced,9,No,No
+890,891,59,Healthcare Representative,17038,1,4,3,10,Below College,21,Divorced,5,Yes,Yes
+891,892,54,Manufacturing Director,13528,4,2,21,5,Master,43,Divorced,0,No,No
+892,893,58,Manager,17743,3,4,13,6,College,36,Single,8,No,Yes
+893,894,48,Manager,10605,1,1,15,11,Doctor,48,Single,5,Yes,Yes
+894,895,54,Research Scientist,4014,1,1,28,6,Master,17,Single,3,No,No
+895,896,25,Research Director,3381,4,1,3,8,College,32,Married,3,No,Yes
+896,897,43,Sales Representative,3098,3,1,23,10,College,41,Married,2,No,No
+897,898,23,Sales Executive,11101,1,1,24,10,Master,6,Single,6,No,No
+898,899,31,Healthcare Representative,2187,2,2,0,9,Master,24,Divorced,2,No,Yes
+899,900,26,Manager,13948,4,3,12,4,College,27,Divorced,1,Yes,No
+900,901,31,Manufacturing Director,12207,1,1,3,0,College,20,Divorced,9,No,No
+901,902,54,Research Scientist,4092,1,1,19,1,College,25,Single,7,No,No
+902,903,59,Manufacturing Director,7242,2,4,17,14,Master,2,Divorced,3,No,No
+903,904,34,Sales Executive,10549,2,2,5,3,College,9,Single,7,No,No
+904,905,52,Sales Representative,7185,4,2,2,4,Below College,28,Married,0,Yes,No
+905,906,57,Research Scientist,17271,4,3,22,8,Master,38,Divorced,4,No,No
+906,907,45,Research Scientist,7776,2,2,12,10,Below College,3,Married,8,No,Yes
+907,908,36,Human Resources,14449,4,4,26,14,Bachelor,20,Divorced,0,No,No
+908,909,50,Healthcare Representative,9823,2,4,15,0,Master,6,Single,3,No,Yes
+909,910,29,Research Scientist,17717,1,3,26,2,Bachelor,39,Single,5,No,No
+910,911,26,Human Resources,9355,2,4,4,4,College,33,Single,9,No,No
+911,912,50,Human Resources,8465,2,1,3,2,College,1,Single,7,No,No
+912,913,25,Sales Executive,14737,3,1,20,3,Doctor,37,Divorced,2,No,No
+913,914,33,Laboratory Technician,19881,2,4,7,14,College,6,Married,4,No,Yes
+914,915,23,Manufacturing Director,15324,2,3,18,13,Bachelor,45,Single,6,No,Yes
+915,916,48,Sales Representative,12350,3,2,13,2,College,34,Divorced,0,No,Yes
+916,917,52,Manufacturing Director,4555,4,3,6,3,Master,47,Married,6,No,No
+917,918,57,Research Scientist,4951,3,2,13,13,College,15,Single,7,Yes,No
+918,919,57,Sales Representative,19622,1,4,5,14,Doctor,45,Married,7,No,Yes
+919,920,47,Manager,6727,3,4,11,12,College,26,Single,8,Yes,No
+920,921,48,Laboratory Technician,7686,1,1,15,12,Bachelor,14,Married,5,No,No
+921,922,26,Manager,5701,4,2,16,14,Bachelor,7,Married,5,No,No
+922,923,41,Manager,4780,3,3,12,14,College,46,Single,1,No,No
+923,924,32,Healthcare Representative,19972,3,4,22,0,Bachelor,31,Divorced,2,No,No
+924,925,31,Manufacturing Director,4368,4,3,13,11,Bachelor,24,Married,3,Yes,Yes
+925,926,59,Sales Executive,17592,1,1,28,7,Doctor,31,Single,3,No,No
+926,927,27,Manager,2436,3,2,6,3,Master,29,Married,7,No,No
+927,928,29,Research Scientist,4828,1,2,13,6,Doctor,42,Married,0,No,No
+928,929,44,Laboratory Technician,3556,3,4,14,1,Below College,32,Divorced,9,Yes,No
+929,930,47,Research Director,15364,2,2,11,1,Doctor,17,Married,3,No,Yes
+930,931,33,Manager,17061,3,4,16,5,College,14,Married,3,No,No
+931,932,47,Laboratory Technician,12576,4,1,8,13,Master,40,Single,0,No,No
+932,933,34,Sales Representative,18566,4,2,21,1,College,36,Single,2,No,No
+933,934,39,Manufacturing Director,9190,1,4,14,14,Below College,48,Divorced,4,No,No
+934,935,46,Human Resources,7565,3,3,11,14,Master,24,Married,5,No,No
+935,936,54,Healthcare Representative,17369,1,4,1,5,Bachelor,45,Married,8,No,No
+936,937,33,Laboratory Technician,3589,1,2,4,10,Doctor,27,Married,8,No,No
+937,938,57,Research Scientist,2159,2,1,12,14,College,25,Divorced,8,Yes,No
+938,939,25,Research Scientist,14145,2,2,26,1,Below College,32,Married,0,No,No
+939,940,26,Laboratory Technician,17373,4,2,19,3,Bachelor,18,Single,8,No,Yes
+940,941,58,Research Scientist,8555,1,4,22,6,Doctor,46,Divorced,7,Yes,Yes
+941,942,29,Manufacturing Director,18237,4,3,7,7,Bachelor,18,Single,1,Yes,Yes
+942,943,49,Research Scientist,11203,3,2,26,14,Doctor,37,Single,0,No,No
+943,944,52,Human Resources,10244,1,3,13,2,Master,26,Divorced,0,Yes,Yes
+944,945,30,Research Scientist,16743,1,4,14,13,Bachelor,9,Single,5,No,No
+945,946,50,Human Resources,15333,3,3,10,14,Bachelor,35,Married,8,Yes,No
+946,947,35,Manager,15341,3,4,0,12,Bachelor,8,Divorced,6,No,Yes
+947,948,43,Sales Executive,3228,4,1,20,8,Master,20,Single,4,Yes,No
+948,949,32,Manufacturing Director,7590,4,3,2,1,Below College,42,Married,1,Yes,No
+949,950,44,Sales Executive,7585,3,3,16,7,Doctor,22,Married,0,No,No
+950,951,22,Manager,11227,4,1,27,7,Bachelor,19,Single,1,No,Yes
+951,952,58,Manufacturing Director,8046,3,3,18,12,Master,30,Married,0,Yes,Yes
+952,953,42,Laboratory Technician,14237,1,1,13,13,Below College,28,Divorced,2,No,No
+953,954,47,Laboratory Technician,17649,1,2,21,3,Doctor,35,Single,5,No,No
+954,955,57,Human Resources,6945,2,4,29,0,Master,43,Married,7,No,Yes
+955,956,44,Manager,9927,1,1,22,12,Doctor,11,Married,2,No,No
+956,957,22,Human Resources,14641,3,3,7,0,Bachelor,31,Single,9,No,No
+957,958,36,Healthcare Representative,17998,4,1,12,1,Below College,49,Single,8,No,No
+958,959,42,Research Scientist,15386,2,3,26,13,Master,48,Single,9,No,No
+959,960,30,Research Director,9016,4,2,19,14,Below College,39,Single,4,Yes,Yes
+960,961,30,Healthcare Representative,16027,3,1,2,11,Bachelor,36,Divorced,6,No,No
+961,962,31,Research Scientist,17920,1,2,4,13,Below College,30,Single,7,No,No
+962,963,47,Manufacturing Director,15752,2,4,8,8,Below College,23,Divorced,2,No,No
+963,964,56,Human Resources,5167,3,3,28,12,College,19,Divorced,1,No,No
+964,965,46,Manufacturing Director,13989,2,3,5,1,Below College,12,Single,1,No,No
+965,966,47,Manufacturing Director,16087,2,2,24,1,Doctor,15,Divorced,4,No,No
+966,967,32,Research Scientist,4437,1,4,21,5,Master,31,Single,0,No,No
+967,968,59,Manager,17275,3,1,1,6,College,43,Single,1,No,No
+968,969,23,Research Scientist,7276,4,1,12,12,Master,37,Married,8,No,Yes
+969,970,28,Sales Representative,10859,2,3,4,6,Master,37,Single,6,No,No
+970,971,39,Laboratory Technician,9818,2,2,27,14,Bachelor,15,Married,5,No,Yes
+971,972,48,Laboratory Technician,6728,4,2,26,12,Bachelor,29,Divorced,8,Yes,Yes
+972,973,55,Healthcare Representative,7738,3,1,24,8,College,43,Married,6,No,No
+973,974,48,Laboratory Technician,7793,2,4,7,5,Bachelor,26,Divorced,4,No,No
+974,975,38,Research Scientist,6523,2,4,22,13,Bachelor,44,Single,8,No,No
+975,976,45,Human Resources,7571,2,1,0,7,Bachelor,2,Divorced,5,Yes,No
+976,977,46,Research Scientist,18209,3,1,19,10,Master,20,Divorced,5,No,No
+977,978,28,Research Scientist,17246,3,2,11,5,College,15,Single,3,No,No
+978,979,27,Research Director,12380,4,4,22,1,Master,4,Divorced,0,No,No
+979,980,45,Human Resources,4224,3,1,10,0,Doctor,22,Single,4,No,No
+980,981,54,Sales Representative,10389,3,1,6,4,Master,38,Married,8,No,No
+981,982,50,Laboratory Technician,17927,1,3,14,13,Doctor,23,Single,7,Yes,Yes
+982,983,43,Human Resources,13684,4,1,21,8,Below College,26,Single,7,Yes,No
+983,984,47,Laboratory Technician,12640,2,1,23,7,Below College,11,Divorced,4,No,No
+984,985,49,Healthcare Representative,10662,3,4,10,13,Doctor,28,Married,8,No,No
+985,986,42,Human Resources,8361,2,2,28,12,Doctor,2,Single,2,Yes,No
+986,987,28,Laboratory Technician,3948,2,4,21,3,Master,8,Married,2,Yes,No
+987,988,38,Sales Representative,14091,1,2,25,4,Doctor,29,Married,0,Yes,Yes
+988,989,41,Sales Executive,13992,3,3,15,12,College,11,Divorced,8,No,No
+989,990,41,Manufacturing Director,8318,4,1,2,4,Below College,37,Single,5,Yes,Yes
+990,991,43,Manufacturing Director,14180,3,3,19,5,Below College,18,Divorced,1,No,No
+991,992,49,Sales Representative,2234,2,2,13,2,Doctor,14,Single,7,No,No
+992,993,28,Research Director,17372,4,4,2,4,Bachelor,10,Married,8,Yes,No
+993,994,22,Sales Executive,2522,3,4,0,1,Bachelor,35,Single,8,No,Yes
+994,995,53,Healthcare Representative,14718,2,3,25,9,Doctor,9,Single,1,Yes,No
+995,996,34,Sales Representative,11821,2,2,20,0,College,35,Married,1,No,No
+996,997,51,Manufacturing Director,7832,1,3,14,10,Bachelor,11,Married,6,Yes,Yes
+997,998,44,Manufacturing Director,14820,1,3,0,0,Doctor,44,Single,3,No,No
+998,999,40,Manufacturing Director,18211,1,1,16,9,College,12,Divorced,0,No,Yes
+999,1000,53,Manager,9122,2,3,1,6,College,3,Single,7,Yes,No
