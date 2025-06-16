@@ -1,0 +1,29 @@
+1. What are the key factors driving employee attrition?
+Use correlation and feature importance techniques to identify which variables (e.g., job satisfaction, overtime, income) most strongly influence whether employees leave.
+
+2. Which job roles have the highest attrition rates?
+Analyze attrition by job role to help HR focus retention strategies on critical roles with high turnover.
+
+3. How does employee satisfaction correlate with attrition?
+Explore how job satisfaction levels relate to attrition and if dissatisfaction predicts resignation.
+
+4. What is the impact of overtime on employee retention?
+Investigate if employees working overtime are more likely to quit and by how much.
+
+5. Does salary influence attrition?
+Analyze monthly income ranges and their corresponding attrition rates to see if pay is a factor.
+
+6. How does length of service affect attrition risk?
+Identify if newer employees leave more often than those with longer tenure.
+
+7. Are there demographic trends in attrition?
+Look at age, marital status, and distance from home to see if any demographic groups are more prone to resign.
+
+8. Can we predict which employees are at high risk of leaving?
+Build a classification model to predict attrition, using the dataset features.
+
+9. What combinations of factors lead to the highest attrition?
+Use clustering or decision trees to find common profiles of employees who leave.
+
+10. How can HR improve employee retention based on the data?
+Provide actionable recommendations (e.g., improve work-life balance, increase pay, reduce overtime).

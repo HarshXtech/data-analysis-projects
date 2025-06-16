@@ -1,0 +1,30 @@
+What are the monthly sales trends for each product and store?
+Analyze seasonality and sales spikes to optimize stock replenishment.
+
+Which products and stores experience frequent stockouts?
+Identify where demand exceeds supply and recommend restocking strategies.
+
+Are there any products that are consistently overstocked?
+Find products with excess inventory to reduce holding costs and avoid wastage.
+
+How does price variation impact units sold and revenue for different products?
+Perform price elasticity analysis to optimize pricing strategy.
+
+What is the correlation between units stocked and units sold?
+Assess if stocking more inventory actually leads to higher sales.
+
+Can we predict future sales for each product-store combination using historical data?
+Build time series forecasting models to improve inventory planning.
+
+Which product categories generate the most revenue and profit per store?
+Support decisions on prioritizing product categories and store focus.
+
+Are there specific days of the week or months with unusually high stockouts or overstocks?
+Pinpoint operational bottlenecks or seasonal effects affecting inventory.
+
+What recommendations can be made to reduce stockouts without increasing overstock risk?
+Propose an optimal inventory level balancing customer satisfaction and cost.
+
+How effective are current inventory policies across stores?
+Analyze the variance in inventory efficiency and suggest best practices.
+

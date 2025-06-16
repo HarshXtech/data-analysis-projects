@@ -1,0 +1,46 @@
+1. Which regions show consistent sales growth throughout the year?
+Identify regions with a positive sales trend.
+
+Highlight any months with significant drops or spikes.
+
+2. What are the seasonal sales patterns for each product across different regions?
+Analyze which months have peak sales and which have slow sales.
+
+Explore whether certain products perform better in specific regions during particular months.
+
+3. Which product-region combinations are underperforming compared to the company average?
+Detect low sales or low profit-margin products in specific regions.
+
+Suggest areas needing targeted marketing or sales interventions.
+
+4. How does profit margin vary across products and regions?
+Calculate profit margins and identify the most and least profitable segments.
+
+Assess whether high sales volumes correlate with higher profits.
+
+5. What is the overall contribution of each region to the company’s total sales and profit?
+Calculate percentage contributions by region and product.
+
+Recommend focus areas for expanding sales efforts.
+
+6. Can you identify any anomalies or outliers in the monthly sales data?
+Detect unexpected drops or spikes.
+
+Investigate possible reasons (seasonality, external events).
+
+7. Based on the sales trends, forecast next quarter sales for each region and product.
+Use simple linear regression or time series forecasting.
+
+Provide actionable recommendations for inventory or marketing planning.
+
+8. How do sales of mobile devices (Tablet + Smartphone) compare to laptops over the year in each region?
+Analyze shifts in customer preferences.
+
+Suggest whether to increase focus on mobile devices.
+
+9. If the company wants to increase profit margins by 10%, which product-region combinations should be prioritized?
+Use data to recommend cost-saving or price adjustment strategies.
+
+10. Create a dashboard or report summarizing the key findings and recommendations from your analysis.
+Combine visuals and insights for effective stakeholder communication.
+
